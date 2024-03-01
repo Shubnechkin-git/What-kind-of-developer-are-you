@@ -1559,6 +1559,19 @@
 
         nextBtn.addEventListener('click', (e) => {
             hoverAudio.play();
+            if (!adbIsWatch) {
+                backgroundAudio.play();
+                backgroundAudio.volume = 0; // Начальная громкость
+                const fadeAudioIn = setInterval(function () {
+                    if (backgroundAudio.volume < 0.5) {
+                        backgroundAudio.volume += 0.025; // Шаг увеличения громкости
+                    } else {
+                        clearInterval(
+                            fadeAudioIn
+                        ); // Остановка интервала после достижения максимальной громкости
+                    }
+                }, 100); // Интервал в миллисекундах для плавного нарастания громкости
+            }
             const selectedAnswer = document.querySelector('input[name="answer"]:checked');
             if (selectedAnswer) {
                 answers[indexQuestion] = selectedAnswer.value;
@@ -1704,7 +1717,6 @@
                 }
             }, 100); // Интервал в миллисекундах для плавного нарастания громкости
         }
-
     </script>
 
     <script src="./bootstrap-5.3.3-dist/js/bootstrap.min.js"
