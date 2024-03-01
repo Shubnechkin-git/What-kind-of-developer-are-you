@@ -328,15 +328,15 @@
             <!-- Изображения разработчиков -->
             <img src="./assets/image/web.jpeg" alt="Web Developer" class="developer-image img-fluid w-100"
                 id="Веб-разработчик-image">
-            <img src="./assets//image/fullstack.jpeg" alt="Fullstack Developer" class="developer-image img-fluid w-100"
+            <img src="./assets/image/fullstack.jpeg" alt="Fullstack Developer" class="developer-image img-fluid w-100"
                 id="Fullstack разработчик-image">
-            <img src="./assets//image/mobile.jpeg" alt="Mobile Developer" class="developer-image img-fluid"
+            <img src="./assets/image/mobile.jpeg" alt="Mobile Developer" class="developer-image img-fluid"
                 id="Мобильный разработчик-image">
-            <img src="./assets//image/backend.jpeg" alt="Backend Developer" class="developer-image img-fluid w-100"
+            <img src="./assets/image/backend.jpeg" alt="Backend Developer" class="developer-image img-fluid w-100"
                 id="Бэкенд-разработчик-image">
-            <img src="./assets//image/frontend.jpeg" alt="Frontend Developer" class="developer-image img-fluid w-100"
+            <img src="./assets/image/frontend.jpeg" alt="Frontend Developer" class="developer-image img-fluid w-100"
                 id="Фронтенд-разработчик-image">
-            <img src="./assets//image/Game.jpeg" alt="Game Developer" class="developer-image img-fluid w-100"
+            <img src="./assets/image/Game.jpeg" alt="Game Developer" class="developer-image img-fluid w-100"
                 id="Разработчик игр-image">
             <div id="result__description" class="fs-5 mt-3"></div>
             <script src="https://yastatic.net/share2/share.js"></script>
@@ -1691,21 +1691,20 @@
             }
         });
 
-        document.addEventListener('DOMContentLoaded', function () {
-            if (!adbIsWatch) {
-                backgroundAudio.play();
-                backgroundAudio.volume = 0; // Начальная громкость
-                const fadeAudioIn = setInterval(function () {
-                    if (backgroundAudio.volume < 0.5) {
-                        backgroundAudio.volume += 0.025; // Шаг увеличения громкости
-                    } else {
-                        clearInterval(
-                            fadeAudioIn
-                        ); // Остановка интервала после достижения максимальной громкости
-                    }
-                }, 100); // Интервал в миллисекундах для плавного нарастания громкости
-            }
-        });
+        if (!adbIsWatch) {
+            backgroundAudio.play();
+            backgroundAudio.volume = 0; // Начальная громкость
+            const fadeAudioIn = setInterval(function () {
+                if (backgroundAudio.volume < 0.5) {
+                    backgroundAudio.volume += 0.025; // Шаг увеличения громкости
+                } else {
+                    clearInterval(
+                        fadeAudioIn
+                    ); // Остановка интервала после достижения максимальной громкости
+                }
+            }, 100); // Интервал в миллисекундах для плавного нарастания громкости
+        }
+
     </script>
 
     <script src="./bootstrap-5.3.3-dist/js/bootstrap.min.js"
