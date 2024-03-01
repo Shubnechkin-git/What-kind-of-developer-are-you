@@ -1557,21 +1557,10 @@
 
         outputForm(indexQuestion, questions);
 
+        let clicked = false;
+
         nextBtn.addEventListener('click', (e) => {
             hoverAudio.play();
-            if (!adbIsWatch) {
-                backgroundAudio.play();
-                backgroundAudio.volume = 0; // Начальная громкость
-                const fadeAudioIn = setInterval(function () {
-                    if (backgroundAudio.volume < 0.5) {
-                        backgroundAudio.volume += 0.025; // Шаг увеличения громкости
-                    } else {
-                        clearInterval(
-                            fadeAudioIn
-                        ); // Остановка интервала после достижения максимальной громкости
-                    }
-                }, 100); // Интервал в миллисекундах для плавного нарастания громкости
-            }
             const selectedAnswer = document.querySelector('input[name="answer"]:checked');
             if (selectedAnswer) {
                 answers[indexQuestion] = selectedAnswer.value;
@@ -1613,10 +1602,48 @@
             isKeyPressed = false;
         }
 
+        document.onclick = () => {
+            if (!clicked) {
+                clicked = true;
+                if (!adbIsWatch) {
+                    backgroundAudio.play();
+                    backgroundAudio.loop = true;
+                    backgroundAudio.volume = 0; // Начальная громкость
+                    const fadeAudioIn = setInterval(function () {
+                        if (backgroundAudio.volume < 0.5) {
+                            backgroundAudio.volume += 0.025; // Шаг увеличения громкости
+                        } else {
+                            clearInterval(
+                                fadeAudioIn
+                            ); // Остановка интервала после достижения максимальной громкости
+                        }
+                    }, 100); // Интервал в миллисекундах для плавного нарастания громкости
+                }
+            }
+        }
+
         // Функция для обработки нажатия клавиш
         const handleKeyPress = (event) => {
             // Получаем код нажатой клавиши
             const keyCode = event.keyCode;
+
+            if (!clicked) {
+                clicked = true;
+                if (!adbIsWatch) {
+                    backgroundAudio.play();
+                    backgroundAudio.loop = true;
+                    backgroundAudio.volume = 0; // Начальная громкость
+                    const fadeAudioIn = setInterval(function () {
+                        if (backgroundAudio.volume < 0.5) {
+                            backgroundAudio.volume += 0.025; // Шаг увеличения громкости
+                        } else {
+                            clearInterval(
+                                fadeAudioIn
+                            ); // Остановка интервала после достижения максимальной громкости
+                        }
+                    }, 100); // Интервал в миллисекундах для плавного нарастания громкости
+                }
+            }
 
             // Проверяем, была ли уже нажата клавиша
             if (isKeyPressed) {
@@ -1704,19 +1731,19 @@
             }
         });
 
-        if (!adbIsWatch) {
-            backgroundAudio.play();
-            backgroundAudio.volume = 0; // Начальная громкость
-            const fadeAudioIn = setInterval(function () {
-                if (backgroundAudio.volume < 0.5) {
-                    backgroundAudio.volume += 0.025; // Шаг увеличения громкости
-                } else {
-                    clearInterval(
-                        fadeAudioIn
-                    ); // Остановка интервала после достижения максимальной громкости
-                }
-            }, 100); // Интервал в миллисекундах для плавного нарастания громкости
-        }
+        // if (!adbIsWatch) {
+        //     backgroundAudio.play();
+        //     backgroundAudio.volume = 0; // Начальная громкость
+        //     const fadeAudioIn = setInterval(function () {
+        //         if (backgroundAudio.volume < 0.5) {
+        //             backgroundAudio.volume += 0.025; // Шаг увеличения громкости
+        //         } else {
+        //             clearInterval(
+        //                 fadeAudioIn
+        //             ); // Остановка интервала после достижения максимальной громкости
+        //         }
+        //     }, 100); // Интервал в миллисекундах для плавного нарастания громкости
+        // }
     </script>
 
     <script src="./bootstrap-5.3.3-dist/js/bootstrap.min.js"
