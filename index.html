@@ -1404,20 +1404,6 @@
 
         let adbIsWatch = false;
 
-        document.addEventListener('DOMContentLoaded', function () {
-            if (!adbIsWatch) {
-                backgroundAudio.play();
-                backgroundAudio.volume = 0; // Начальная громкость
-                const fadeAudioIn = setInterval(function () {
-                    if (backgroundAudio.volume < 0.5) {
-                        backgroundAudio.volume += 0.025; // Шаг увеличения громкости
-                    } else {
-                        clearInterval(
-                            fadeAudioIn); // Остановка интервала после достижения максимальной громкости
-                    }
-                }, 100); // Интервал в миллисекундах для плавного нарастания громкости
-            }
-        });
 
         let indexQuestion = 1;
         let answers = {};
@@ -1702,6 +1688,22 @@
                     victoryAudio.play();
                 }
                 console.log('Вкладка активна');
+            }
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            if (!adbIsWatch) {
+                backgroundAudio.play();
+                backgroundAudio.volume = 0; // Начальная громкость
+                const fadeAudioIn = setInterval(function () {
+                    if (backgroundAudio.volume < 0.5) {
+                        backgroundAudio.volume += 0.025; // Шаг увеличения громкости
+                    } else {
+                        clearInterval(
+                            fadeAudioIn
+                        ); // Остановка интервала после достижения максимальной громкости
+                    }
+                }, 100); // Интервал в миллисекундах для плавного нарастания громкости
             }
         });
     </script>
