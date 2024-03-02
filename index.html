@@ -1411,6 +1411,39 @@
         let played = false;
         let closed = false;
 
+
+        const playAudio = () => {
+            backgroundAudio.play();
+            // hoverAudio.play();
+            // victoryAudio.play();
+        }
+
+        // Функция для остановки аудио
+        const stopAudio = () => {
+            backgroundAudio.pause();
+            hoverAudio.pause();
+            victoryAudio.pause();
+        }
+
+        // Инициализация YaGames и воспроизведение аудио по умолчанию
+        YaGames.init().then(ysdk => {
+            ysdk.adv.showFullscreenAdv({
+                callbacks: {
+                    onClose: function (wasShown) {
+                        // Действия после закрытия рекламы
+                        playAudio();
+                        played = true;
+                        adbIsWatch = false;
+                    },
+                    onOpen: () => {
+                        // Действия при открытии рекламы
+                        stopAudio();
+                        adbIsWatch = true;
+                    },
+                }
+            });
+        });
+
         const addQuestionToForm = (indexQuestion, questions) => {
             const questionObj = questions[0][indexQuestion];
             const question = questionObj.question;
@@ -1449,41 +1482,6 @@
 
         const displayResult = () => {
             indexQuestion++;
-
-            function playAudio() {
-                backgroundAudio.play();
-                hoverAudio.play();
-                victoryAudio.play();
-            }
-
-            // Функция для остановки аудио
-            function stopAudio() {
-                backgroundAudio.pause();
-                hoverAudio.pause();
-                victoryAudio.pause();
-            }
-
-            // Инициализация YaGames и воспроизведение аудио по умолчанию
-            YaGames.init().then(ysdk => {
-                ysdk.adv.showFullscreenAdv({
-                    callbacks: {
-                        onClose: function (wasShown) {
-                            // Действия после закрытия рекламы
-                            playAudio();
-                            played = true;
-                            adbIsWatch = false;
-                        },
-                        onOpen: () => {
-                            // Действия при открытии рекламы
-                            stopAudio();
-                            adbIsWatch = true;
-                        },
-                    }
-                });
-
-                // Воспроизведение аудио по умолчанию
-                playAudio();
-            });
 
             errorMessage.style.display = 'none';
 
