@@ -1,0 +1,999 @@
+{
+    "1": {
+        "question": "Sizi en çok hangi faaliyet alanlarına çekiyorsunuz?",
+        "answer": {
+            "Moda ve Tasarım": "Ön uç Geliştirici",
+            "Tıp ve Sağlık Hizmetleri": "Mobil Geliştirici",
+            "İşletme ve Yönetim": "Arka uç Geliştirici",
+            "Yaratıcılık ve Sanat": "Ön uç Geliştirici",
+            "Oyunlar ve Eğlence": "Oyun Geliştirici"
+        }
+    },
+    "2": {
+        "question": "Size en yakın hobi türü hangisidir?",
+        "answer": {
+            "Çizim ve Yaratıcılık": "Ön uç Geliştirici",
+            "Spor ve Aktif Yaşam Tarzı": "Mobil Geliştirici",
+            "Yeni Diller ve Kültürler öğrenmek": "Arka uç Geliştirici",
+            "Bilgisayar Oyunları ve Oyun Oynama": "Oyun Geliştirici",
+            "Literatürü Okumak ve Analiz etmek": "Ön uç Geliştirici"
+        }
+    },
+    "3": {
+        "question": "Projenin hangi bölümünü geliştirmeyi tercih ediyorsunuz?",
+        "answer": {
+            "Arayüz ve Kullanıcı Deneyimi": "Ön uç Geliştirici",
+            "Arka uç ve sunucu mantığı": "Arka uç Geliştirici",
+            "Projenin her iki kısmı da eşit derecede ilginç": "Fullstack Geliştirici"
+        }
+    },
+    "4": {
+        "question": "En çok hangi tür uygulamalarla ilgilenirsiniz?",
+        "answer": {
+            "Web siteleri ve çevrimiçi platformlar": "Fullstack Geliştirici",
+            "Akıllı telefonlar için mobil uygulamalar": "Mobil Geliştirici",
+            "Bilgisayar Oyunları ve Eğlence Uygulamaları": "Oyun Geliştirici",
+            "Yönetim ve Analiz Sistemleri": "Arka uç Geliştirici"
+        }
+    },
+    "5": {
+        "question": "Sizin için hangi çalışma tarzı daha rahat?",
+        "answer": {
+            "Belirli görevler ve işlevler üzerinde çalışmak": "Arka uç Geliştirici",
+            "Tasarım ve Kullanıcı arayüzüyle çalışma": "Ön uç Geliştirici",
+            "Mobil Uygulama Geliştirme ve Performans Optimizasyonu": "Mobil Geliştirici",
+            "Oyun geliştirme ve projelere Yaratıcı Yaklaşım": "Oyun Geliştirici"
+        }
+    },
+    "6": {
+        "question": "Hangi işletim sistemini tercih edersiniz?",
+        "answer": {
+            "iOS": "Mobil Geliştirici",
+            "Android": "Mobil Geliştirici",
+            "Windows": "Arka uç Geliştirici",
+            "Linux": "Arka uç Geliştirici",
+            "Önemli değil": "Fullstack Geliştirici"
+        }
+    },
+    "7": {
+        "question": "Veri analiziyle ilişki mi?",
+        "answer": {
+            "Verileri analiz etmeyi ve bilgileri çıkarmayı seviyorum": "Arka uç Geliştirici",
+            "Arayüzler ve veri görselleştirmeyle çalışmayı tercih ederim": "Ön uç Geliştirici",
+            "MO algoritmalarının ve modellerinin geliştirilmesine ilgi": "Oyun Geliştirici",
+            "Veri analiziyle ilgilenmiyorum": "Mobil Geliştirici"
+        }
+    },
+    "8": {
+        "question": "Ağlar ve protokollerle çalışmaya yönelik tutum?",
+        "answer": {
+            "Ağ oluşturma ve Dağıtılmış Sistem Geliştirmeye ilgi": "Arka uç Geliştirici",
+            "Uygulamaların İstemci Tarafına Odaklanma": "Ön uç Geliştirici",
+            "Ağ Oyun Altyapısına ilgi": "Oyun Geliştirici",
+            "Ağ teknolojileri çekmiyor": "Mobil Geliştirici"
+        }
+    },
+    "9": {
+        "question": "Takımda tercih edilen rol mü?",
+        "answer": {
+            "Önemli mimari kararları veren Lider Geliştirici": "Arka uç Geliştirici",
+            "Uygulama arayüzünün tasarımı ve tasarımı": "Ön uç Geliştirici",
+            "Oyun mekaniğinin geliştirilmesi ve oyun nesnelerinin etkileşimi": "Oyun Geliştirici",
+            "Projenin tüm yönleri üzerinde çalışmak": "Fullstack Geliştirici"
+        }
+    },
+    "10": {
+        "question": "Kod test tercihiniz mi?",
+        "answer": {
+            "Birim Testleri ve Otomatik Test Senaryoları": "Arka uç Geliştirici",
+            "Komut dosyaları aracılığıyla kullanıcı arayüzünü ve etkileşimi test etme": "Ön uç Geliştirici",
+            "Gerçek oyun durumlarında oyun mekaniklerini ve sistemlerini test etmek": "Oyun Geliştirici",
+            "Kod testine fazla önem vermiyorum": "Mobil Geliştirici"
+        }
+    },
+    "11": {
+        "question": "İşte değer mi?",
+        "answer": {
+            "Yaratıcılık ve kendini ifade etme": "Ön uç Geliştirici",
+            "Süreç analizi ve Optimizasyonu": "Arka uç Geliştirici",
+            "Yenilikçi Ürünler yaratmak": "Oyun Geliştirici",
+            "Modern teknolojiyle çalışmak": "Mobil Geliştirici"
+        }
+    },
+    "12": {
+        "question": "Yeni beceriler öğrenmede tercihler mi?",
+        "answer": {
+            "Kendi kendine çalışma ve uygulamaya uygulama": "Ön uç Geliştirici",
+            "Mesleki kurslar ve eğitimler": "Arka uç Geliştirici",
+            "Hackathon'lara ve açık projelere katılım": "Oyun Geliştirici",
+            "Üniversite veya Kolej Eğitimi": "Mobil Geliştirici"
+        }
+    },
+    "13": {
+        "question": "Takım olarak çalışmaya karşı tutum mu?",
+        "answer": {
+            "Yalnız çalışmayı tercih ederim": "Ön uç Geliştirici",
+            "Açıkça dağıtılmış rollere sahip küçük gruplar halinde çalışmayı tercih ederim": "Arka uç Geliştirici",
+            "Çeşitli becerilere sahip büyük takımlarda çalışmayı seviyorum": "Oyun Geliştirici",
+            "Az sayıda uzmanla çalışmayı tercih ederim": "Mobil Geliştirici"
+        }
+    },
+    "14": {
+        "question": "Bir proje için teknoloji seçerken ana kriterler?",
+        "answer": {
+            "Kullanım kolaylığı ve Hızlı Geliştirme": "Ön uç Geliştirici",
+            "Performans ve Ölçeklenebilirlik": "Arka uç Geliştirici",
+            "Yaratıcı ve Benzersiz ürünler yaratmak": "Oyun Geliştirici",
+            "Çeşitli cihazlar ve platformlarla uyumluluk": "Mobil Geliştirici"
+        }
+    },
+    "15": {
+        "question": "Veritabanlarıyla çalışmakla ilgili mi?",
+        "answer": {
+            "İlişkisel veritabanları ve SQL sorgularıyla çalışma": "Arka uç Geliştirici",
+            "NoSQL veritabanlarıyla çalışma ve Dağıtılmış Verileri yönetme": "Ön uç Geliştirici",
+            "Oyun istatistiklerini depolamak için veritabanlarını kullanma": "Oyun Geliştirici",
+            "Veritabanlarıyla çalışmak benim sorumluluğumda değil": "Mobil Geliştirici"
+        }
+    },
+    "16": {
+        "question": "Yakın programlama dilleri mi?",
+        "answer": {
+            "JavaScript": "Ön uç Geliştirici",
+            "Python": "Arka uç Geliştirici",
+            "C#": "Oyun Geliştirici",
+            "Swift": "Mobil Geliştirici",
+            "Java": "Fullstack Geliştirici"
+        }
+    },
+    "17": {
+        "question": "Yazılım geliştirmedeki önemli hususlar?",
+        "answer": {
+            "Kullanıcı etkileşimi": "Ön uç Geliştirici",
+            "Kararlılık ve Güvenlik": "Arka uç Geliştirici",
+            "Eğlenceli oyun": "Oyun Geliştirici",
+            "Performans ve Optimizasyon": "Mobil Geliştirici",
+            "Tam işlevsellik ve esneklik": "Fullstack Geliştirici"
+        }
+    },
+    "18": {
+        "question": "Hacimli verilerle çalışmaya yönelik tutum mu?",
+        "answer": {
+            "Büyük hacimli verilerin analizi ve işlenmesi": "Arka uç Geliştirici",
+            "Küçük ve orta hacimli verilerle çalışma": "Ön uç Geliştirici",
+            "Verilerle çalışmaya öncelik verilmiyor": "Mobil Geliştirici",
+            "Oyun endüstrisinde verilerle çalışmak": "Oyun Geliştirici",
+            "Kişiselleştirilmiş ürünler için veri kullanımı": "Fullstack Geliştirici"
+        }
+    },
+    "19": {
+        "question": "Yazılım testi tercihleri mi?",
+        "answer": {
+            "Tüm bileşenler ve işlevler için kapsamlı testler": "Arka uç Geliştirici",
+            "Farklı cihazlarda kullanıcı deneyimini test etmek": "Ön uç Geliştirici",
+            "Mekaniği ve dengeyi test etmek için oyun testi": "Oyun Geliştirici",
+            "Yazılımı test etmek benim görevim değil": "Mobil Geliştirici",
+            "Uygulamanın tüm yönleri için otomatik testler": "Fullstack Geliştirici"
+        }
+    },
+    "20": {
+        "question": "Geliştirmedeki becerilerin değerlendirilmesi mi?",
+        "answer": {
+            "Bilgime ve becerilerime güveniyorum": "Fullstack Geliştirici",
+            "Öğrenmeye ve gelişmeye her zaman hazır": "Ön uç Geliştirici",
+            "İstenen sonuçları elde etmek için daha fazla deneyime ihtiyaç var": "Arka uç Geliştirici",
+            "Zor görevlere Yaratıcı çözümler bulma yeteneği": "Oyun Geliştirici",
+            "Becerilerimin değerlendirilmesi önemli değil": "Mobil Geliştirici"
+        }
+    },
+    "21": {
+        "question": "Çalışma ortamındaki tercihler mi?",
+        "answer": {
+            "Temiz ve Minimalist Çalışma Alanı": "Ön uç Geliştirici",
+            "Organize ve verimli bir işyeri": "Arka uç Geliştirici",
+            "Konforlu ve rahat bir ortam": "Mobil Geliştirici",
+            "İlham verici ve Motive edici bir işyeri": "Oyun Geliştirici",
+            "İş yeri önemli değil": "Fullstack Geliştirici"
+        }
+    },
+    "22": {
+        "question": "Yeni teknolojiler öğrenmede tercihler mi?",
+        "answer": {
+            "Bağımsız çalışma ve uygulama": "Fullstack Geliştirici",
+            "Eğitim Kursları ve Çevrimiçi Eğitim": "Ön uç Geliştirici",
+            "Literatürü ve Belgeleri okumak": "Arka uç Geliştirici",
+            "Projelerde yeni teknolojilerin uygulanması": "Oyun Geliştirici",
+            "Aktif olarak yeni teknolojiler öğrenmiyorum": "Mobil Geliştirici"
+        }
+    },
+    "23": {
+        "question": "Problem çözme yeteneğinizi nasıl değerlendiriyorsunuz?",
+        "answer": {
+            "Kendimi harika bir problem çözücü olarak görüyorum ve her karmaşıklığın zorluklarını kabul etmeye hazırım": "Fullstack Geliştirici",
+            "Analitik yaklaşımımı ve teknik becerilerimi kullanarak sorunları güvenle çözüyorum": "Arka uç Geliştirici",
+            "Deneme ve test gerektirse bile problem çözmeye yönelik yeni çözümler ve yaklaşımlar aramaya hazır": "Ön uç Geliştirici",
+            "Sorunları çözmek her zaman kolay değildir, ancak çaba göstermeye ve uzmanlığımı bunları çözmek için kullanmaya hazırım": "Mobil Geliştirici",
+            "Sorunlardan kaçınmayı tercih ediyorum ve işi çatışmalı durumlardan kaçınacak şekilde planlamaya çalışıyorum": "Oyun Geliştirici"
+        }
+    },
+    "24": {
+        "question": "Tercih ettiğiniz geliştirme araçları mı?",
+        "answer": {
+            "IDE veya kod editörleri": "Fullstack Geliştirici",
+            "Grafik Editörleri": "Ön uç Geliştirici",
+            "Komut istemi ve Yardımcı programlar": "Arka uç Geliştirici",
+            "Entegre Geliştirme Ortamları": "Oyun Geliştirici",
+            "Basit araçlar ve çözümler": "Mobil Geliştirici"
+        }
+    },
+    "25": {
+        "question": "Büyük projeler üzerinde çalışmaya karşı tutum mu?",
+        "answer": {
+            "Tutkulu ve ilgili": "Fullstack Geliştirici",
+            "Küçük ve orta ölçekli projeleri tercih ediyor": "Ön uç Geliştirici",
+            "Meydan okumayı kabul etmeye ve karmaşık sorunları çözmeye hazır": "Arka uç Geliştirici",
+            "Geniş kitlelere sahip projeler üzerinde çalışmak heyecan verici": "Mobil Geliştirici",
+            "Değişen karmaşıklıktaki projeler üzerinde rahatça çalışmak": "Oyun Geliştirici"
+        }
+    },
+    "26": {
+        "question": "Yeni gereksinimlere ve teknolojilere uyum sağlamaya yönelik tutum?",
+        "answer": {
+            "Esnek ve açık fikirli": "Fullstack Geliştirici",
+            "Bilinçli ve Amaçlı": "Ön uç Geliştirici",
+            "Dikkatli ve dikkatli bir analizden sonra": "Arka uç Geliştirici",
+            "Yeni şeyler öğrenme tutkusu ve arzusuyla": "Mobil Geliştirici",
+            "İstikrarı tercih ediyorum ve değişimden kaçınıyorum": "Oyun Geliştirici"
+        }
+    },
+    "27": {
+        "question": "Sorunları çözme ve koddaki hataları düzeltme tercihleri?",
+        "answer": {
+            "Sistematik olarak ve dikkatli analiz kullanarak": "Fullstack Geliştirici",
+            "Yaratıcı ve standart olmayan yaklaşımlarla": "Ön uç Geliştirici",
+            "Mantıksal olarak ve hata ayıklama yöntemlerini kullanarak": "Arka uç Geliştirici",
+            "Deneysel ve Deneme yanılma yoluyla": "Mobil Geliştirici",
+            "Sorunlardan ve hatalardan kaçınmayı tercih ederim": "Oyun Geliştirici"
+        }
+    },
+    "28": {
+        "question": "Teknik konferanslara ve etkinliklere katılmaya yönelik tutum?",
+        "answer": {
+            "Projelerime aktif olarak katılıyorum ve sunuyorum": "Fullstack Geliştirici",
+            "Deneyimlerimi ziyaret ediyorum ve paylaşıyorum": "Ön uç Geliştirici",
+            "En son trendlerden haberdar olmak için katılıyorum": "Arka uç Geliştirici",
+            "Dersleri dinlemek ve tartışmalara katılmakla ilgileniyorum": "Mobil Geliştirici",
+            "Bu tür olaylardan kaçınmayı tercih ederim": "Oyun Geliştirici"
+        }
+    },
+    "29": {
+        "question": "Platformlar arası geliştirmeye yönelik tutum mu?",
+        "answer": {
+            "Bunun içinde büyük bir potansiyel görüyorum ve öğrenmeye hazırım": "Fullstack Geliştirici",
+            "Evrensel uygulamalar oluşturmak için kullanıyorum": "Ön uç Geliştirici",
+            "Tek bir platforma odaklanmayı tercih ederim": "Arka uç Geliştirici",
+            "Bunu ilginç bir yön olarak görüyorum": "Mobil Geliştirici",
+            "Platformlar arası geliştirmeye pek ilgi duymuyorum": "Oyun Geliştirici"
+        }
+    },
+    "30": {
+        "question": "Teknik bilginin mesleki yaşamınızda oynadığı rol nedir?",
+        "answer": {
+            "İşimin temeli bunlar": "Fullstack Geliştirici",
+            "Önemli ama tek yön değil": "Ön uç Geliştirici",
+            "Belirli görevleri çözmek için gereklidir": "Arka uç Geliştirici",
+            "İşimin belirli alanlarında kullanılıyor": "Mobil Geliştirici",
+            "Mesleğimde öncelikli değiller": "Oyun Geliştirici"
+        }
+    },
+    "31": {
+        "question": "Açık kaynak araçları ve kitaplıklarıyla ilişkisi",
+        "answer": {
+            "Aktif kullanım ve topluluğa katkı": "Fullstack Geliştirici",
+            "Projelerimde kullanım": "Ön uç Geliştirici",
+            "Lisanslı Yazılım Tercihi": "Arka uç Geliştirici",
+            "Nadir kullanım, ancak yeniye açık": "Mobil Geliştirici",
+            "Açık kaynağa ilgi yok": "Oyun Geliştirici"
+        }
+    },
+    "32": {
+        "question": "Veritabanlarıyla çalışmak ve verileri depolamak",
+        "answer": {
+            "Farklı veritabanı türlerine güvenle sahip olma": "Fullstack Geliştirici",
+            "Web Uygulaması veritabanında uzmanlaşma": "Arka uç Geliştirici",
+            "Mobil uygulamalarda veri depolamaya ilgi": "Mobil Geliştirici",
+            "Oyun geliştirmede DB ile çalışmak": "Oyun Geliştirici",
+            "VERİTABANI ile çalışmaya ilgi yok": "Ön uç Geliştirici"
+        }
+    },
+    "33": {
+        "question": "İşinizde hız ve optimizasyonun rolü nedir?",
+        "answer": {
+            "İşin temel yönleri": "Arka uç Geliştirici",
+            "Hızlı arayüzler oluşturmaya çalışıyorum": "Ön uç Geliştirici",
+            "Mobil uygulamalar için optimizasyon": "Mobil Geliştirici",
+            "Oyunlarda kod optimizasyonu": "Oyun Geliştirici",
+            "İşte öncelik yok": "Fullstack Geliştirici"
+        }
+    },
+    "34": {
+        "question": "Algoritmalar ve veri yapılarıyla çalışma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Projelerde güvenle uyguluyorum": "Fullstack Geliştirici",
+            "Web geliştirmede kullanıyorum": "Arka uç Geliştirici",
+            "Bilgi mobil geliştirmeye yardımcı olur": "Mobil Geliştirici",
+            "Oyun projelerinde önemlidir": "Oyun Geliştirici",
+            "Odaklanmıyorum": "Ön uç Geliştirici"
+        }
+    },
+    "35": {
+        "question": "Kodunuzu test etme ve kalite güvencesi konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Katı yöntemlere bağlıyım": "Arka uç Geliştirici",
+            "Testler oluşturmaya çalışıyorum": "Ön uç Geliştirici",
+            "Mobil uygulamalar için test önemlidir": "Mobil Geliştirici",
+            "Oyun mekaniklerini test etmek": "Oyun Geliştirici",
+            "Öncelik yok": "Fullstack Geliştirici"
+        }
+    },
+    "36": {
+        "question": "Teknolojinin güncellemeleri ve yeni sürümleri hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "Güncellemeleri takip ediyorum ve hızlı adapte oluyorum": "Fullstack Geliştirici",
+            "Arka uçtaki yeni sürümlerle ilgileniyorum": "Arka uç Geliştirici",
+            "En son trendlerden haberdar olmaya çalışıyorum": "Ön uç Geliştirici",
+            "Mobil uygulamalarda yeni teknolojiler kullanıyorum": "Mobil Geliştirici",
+            "Önemli bir etkisi yok": "Oyun Geliştirici"
+        }
+    },
+    "37": {
+        "question": "Geliştirmedeki çok işlevlilik ve uyarlanabilirlik hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "Zengin özelliklere sahip ve duyarlı uygulamalar oluşturmaya çalışıyorum": "Fullstack Geliştirici",
+            "Web uygulamalarının uyarlanabilirliğine dikkat ediyorum": "Ön uç Geliştirici",
+            "Uyarlanabilir mobil geliştirmeyle ilgileniyorum": "Mobil Geliştirici",
+            "Oyun projelerinin uyarlanabilirliği": "Oyun Geliştirici",
+            "Her zaman öncelikler değildir": "Arka uç Geliştirici"
+        }
+    },
+    "38": {
+        "question": "Programlama alanı dışında beceri geliştirme konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Çeşitli alanlarda beceri geliştirmeye gayret ediyorum": "Fullstack Geliştirici",
+            "Tasarım becerilerini geliştirmek için zaman ayırıyorum": "Ön uç Geliştirici",
+            "Yönetim ve iletişim eğitimiyle ilgileniyorum": "Arka uç Geliştirici",
+            "Oyun tasarımı becerilerini geliştiriyorum": "Oyun Geliştirici",
+            "Teknik becerilerin geliştirilmesine odaklanıyorum": "Mobil Geliştirici"
+        }
+    },
+    "39": {
+        "question": "Sizin için geliştirmenin en önemli yönü nedir - yürütme hızı mı yoksa kod kalitesi mi?",
+        "answer": {
+            "Yürütme Hızı": "Ön uç Geliştirici",
+            "Kod kalitesi": "Arka uç Geliştirici",
+            "Her iki yön de önemlidir": "Fullstack Geliştirici",
+            "Proje bağlamına bağlıdır": "Oyun Geliştirici",
+            "Net bir tercihim yok": "Mobil Geliştirici"
+        }
+    },
+    "40": {
+        "question": "Çeşitli konferanslara ve etkinliklere katılma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Projelerime aktif olarak katılıyorum ve sunuyorum": "Fullstack Geliştirici",
+            "Deneyimlerimi ziyaret ediyorum ve paylaşıyorum": "Ön uç Geliştirici",
+            "En son trendlerden haberdar olmak için katılıyorum": "Arka uç Geliştirici",
+            "Dersleri dinlemek ve tartışmalara katılmak ilginç": "Mobil Geliştirici",
+            "Bu tür olaylardan kaçınmayı tercih ederim": "Oyun Geliştirici"
+        }
+    },
+    "41": {
+        "question": "Projelerinizde animasyon mu var?",
+        "answer": {
+            "Arayüz ve etkileşimin önemli bir unsuru": "Ön uç Geliştirici",
+            "Mobil Uygulamalarda Kullanıcı Deneyimini geliştirme": "Mobil Geliştirici",
+            "Oyun yapımında kilit rol": "Oyun Geliştirici",
+            "Web Uygulamalarında veri görselleştirmeyi geliştirme": "Arka uç Geliştirici",
+            "Çok önemli değil": "Fullstack Geliştirici"
+        }
+    },
+    "42": {
+        "question": "Yapay zeka (AI) ve makine öğrenimi (ML) ile mi çalışıyorsunuz?",
+        "answer": {
+            "Projelerimde aktif uygulama": "Fullstack Geliştirici",
+            "Web Uygulamalarını geliştirme": "Arka uç Geliştirici",
+            "Mobil uygulamalara entegrasyon": "Mobil Geliştirici",
+            "Oyun Deneyimini geliştirmek": "Oyun Geliştirici",
+            "Fazla ilgilenmiyorum": "Ön uç Geliştirici"
+        }
+    },
+    "43": {
+        "question": "Projelerde sanal ve artırılmış gerçekliğin kullanımı mı?",
+        "answer": {
+            "Teknolojinin aktif kullanımı": "Oyun Geliştirici",
+            "Mobil uygulamalarda sanal ve artırılmış gerçeklikle çalışma": "Mobil Geliştirici",
+            "Web projelerinde kullanıma ilgi": "Ön uç Geliştirici",
+            "İş süreçlerinin optimizasyonu": "Arka uç Geliştirici",
+            "Fazla önem vermiyorum": "Fullstack Geliştirici"
+        }
+    },
+    "44": {
+        "question": "Blockchain teknolojileriyle mi çalışıyorsunuz?",
+        "answer": {
+            "Aktif katılım ve merkezi olmayan uygulamaların oluşturulması": "Fullstack Geliştirici",
+            "Web projelerinde veri güvenliğini sağlama": "Arka uç Geliştirici",
+            "Mobil uygulamalara entegrasyon": "Mobil Geliştirici",
+            "Oyunlarda uygulama": "Oyun Geliştirici",
+            "Fazla önem vermiyorum": "Ön uç Geliştirici"
+        }
+    },
+    "45": {
+        "question": "İşinizde güvenliğin rolü mü?",
+        "answer": {
+            "Güvenliğe büyük Önem veriliyor": "Arka uç Geliştirici",
+            "Güvenli Arayüzler Oluşturma": "Ön uç Geliştirici",
+            "Mobil uygulamaların Önemli Yönü": "Mobil Geliştirici",
+            "Oyunlarda güvenliği sağlamak": "Oyun Geliştirici",
+            "Öncelik değil": "Fullstack Geliştirici"
+        }
+    },
+    "46": {
+        "question": "Çok dilli uygulamalar mı oluşturuyorsunuz?",
+        "answer": {
+            "Farklı diller için aktif oluşturma": "Fullstack Geliştirici",
+            "Web projelerinde izleyici kitlesini genişletmek": "Arka uç Geliştirici",
+            "Farklı cihazlar için arayüzler oluşturma": "Mobil Geliştirici",
+            "Oyunlarda uygulama": "Oyun Geliştirici",
+            "Fazla önem vermiyorum": "Ön uç Geliştirici"
+        }
+    },
+    "47": {
+        "question": "Projelerde duyarlı tasarım kullanmak mı?",
+        "answer": {
+            "Platformlar arası uyumluluğu sağlamak için": "Fullstack Geliştirici",
+            "Web Uygulamalarında kullanıcı Deneyimini geliştirme": "Arka uç Geliştirici",
+            "Mobil Uygulamalar oluşturma": "Mobil Geliştirici",
+            "Optimum oyun deneyimini sağlamak için": "Oyun Geliştirici",
+            "Önemli değil": "Ön uç Geliştirici"
+        }
+    },
+    "48": {
+        "question": "Grafik kitaplıklarını ve çerçevelerini mi kullanıyorsunuz?",
+        "answer": {
+            "Görsel efektler oluşturmak için": "Ön uç Geliştirici",
+            "Veri işleme ve görselleştirme için": "Arka uç Geliştirici",
+            "Mobil uygulamalarda modern teknolojilerin uygulanması": "Mobil Geliştirici",
+            "Oyunlarda etkileyici görseller yaratmak için": "Oyun Geliştirici",
+            "Önemli değil": "Fullstack Geliştirici"
+        }
+    },
+    "49": {
+        "question": "Kendi UI bileşenlerinizi ve kitaplıklarınızı mı oluşturuyorsunuz?",
+        "answer": {
+            "Yeniden kullanım için aktif oluşturma": "Fullstack Geliştirici",
+            "Benzersiz arayüzler oluşturmak için kullanma": "Ön uç Geliştirici",
+            "Mobil uygulamalar için geliştirme": "Mobil Geliştirici",
+            "Oyunlarda uygulama": "Oyun Geliştirici",
+            "Fazla önem vermiyorum": "Arka uç Geliştirici"
+        }
+    },
+    "50": {
+        "question": "İşlevsel programlamayı projelere dahil etmek mi?",
+        "answer": {
+            "Yüksek performanslı uygulamalar oluşturmak için": "Fullstack Geliştirici",
+            "Web Uygulaması Geliştirmeyi Basitleştirme": "Arka uç Geliştirici",
+            "Mobil Uygulamalarda performansı iyileştirme": "Mobil Geliştirici",
+            "Güvenilir Oyun Sistemleri Oluşturma": "Oyun Geliştirici",
+            "Önemli değil": "Ön uç Geliştirici"
+        }
+    },
+    "51": {
+        "question": "DevOps uygulamaları ve süreç otomasyonu ile çalışma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "DevOps ve otomasyona düşkünüm": "Fullstack Geliştirici",
+            "Bazı DevOps uygulamalarını kullanıyorum": "Arka uç Geliştirici",
+            "Kod geliştirmeye odaklanmayı tercih ederim": "Ön uç Geliştirici",
+            "Görevlerim dahilinde otomasyon üzerinde çalışıyorum": "Oyun Geliştirici",
+            "DevOps uygulamalarıyla pek ilgilenmiyorum": "Mobil Geliştirici"
+        }
+    },
+    "52": {
+        "question": "Duyarlı ve duyarlı kullanıcı arayüzleri tasarlama konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Uyarlanabilir arayüzler geliştirmeye tutkuluyum": "Ön uç Geliştirici",
+            "Duyarlı tasarım ilkelerini kullanıyorum": "Arka uç Geliştirici",
+            "İhtiyaç dahilinde duyarlı arayüzlerle çalışıyorum": "Mobil Geliştirici",
+            "Duyarlı arayüzler benim sorumluluklarımın bir parçası değil": "Oyun Geliştirici",
+            "İlgileniyorum ama bu alanda fazla deneyimim yok": "Fullstack Geliştirici"
+        }
+    },
+    "53": {
+        "question": "Kullanıcılardan gelen geri bildirimlere nasıl yanıt vermeyi tercih edersiniz?",
+        "answer": {
+            "Geri bildirimi analiz ediyorum ve ürünü iyileştirmek için kullanıyorum": "Fullstack Geliştirici",
+            "Hızlı tepki veriyorum ve gerektiğinde değişiklikleri uyguluyorum": "Ön uç Geliştirici",
+            "Geliştirme sürecindeki geri bildirimleri dikkate alıyorum": "Arka uç Geliştirici",
+            "Geri bildirimi dikkate alıyorum, ancak her zaman hemen yanıt veremiyorum": "Mobil Geliştirici",
+            "Oynanışı ve kullanıcı deneyimini optimize etmek için geri bildirim kullanıyorum": "Oyun Geliştirici"
+        }
+    },
+    "54": {
+        "question": "Kodunuz veya ürününüz için belge oluşturma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Belgelerin oluşturulmasını önemli bir adım olarak görüyorum": "Arka uç Geliştirici",
+            "Projelerim için ayrıntılı belgeler oluşturuyorum": "Fullstack Geliştirici",
+            "Kodu anlamak için gereken minimum belgeleri oluşturuyorum": "Ön uç Geliştirici",
+            "Harici API'ler ve arayüzler için belgelere özellikle dikkat ediyorum": "Mobil Geliştirici",
+            "Gerekirse belgeler üzerinde çalışıyorum, ancak bunu bir öncelik olarak görmüyorum": "Oyun Geliştirici"
+        }
+    },
+    "55": {
+        "question": "Projelerinizde kimlik doğrulama ve yetkilendirmeyi nasıl uygulamayı tercih edersiniz?",
+        "answer": {
+            "Standart kimlik doğrulama ve yetkilendirme yöntemlerini kullanıyorum": "Arka uç Geliştirici",
+            "Kendi kimlik doğrulama ve yetkilendirme yöntemlerimi geliştiriyorum": "Fullstack Geliştirici",
+            "Kimlik doğrulama ve yetkilendirme için hazır çözümler ve kitaplıklar kullanıyorum": "Ön uç Geliştirici",
+            "Kimlik doğrulama ve yetkilendirme işimin bir parçası değil": "Oyun Geliştirici",
+            "Kimlik doğrulama için üçüncü taraf hizmetlerini kullanmayı tercih ediyorum": "Mobil Geliştirici"
+        }
+    },
+    "56": {
+        "question": "Çoklu iş parçacığı ve paralel programlama ile çalışma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Çok iş parçacıklı programlamaya düşkünüm": "Fullstack Geliştirici",
+            "Gerektiğinde çoklu iş parçacığı kullanıyorum": "Arka uç Geliştirici",
+            "Projelerimin bir parçası olarak paralel programlamayla çalışıyorum": "Ön uç Geliştirici",
+            "Çoklu iş parçacığı ve paralel programlama benim görevime dahil değil": "Mobil Geliştirici",
+            "Bunu ilginç bir yön olarak görüyorum ama bu alanda fazla deneyimim yok": "Oyun Geliştirici"
+        }
+    },
+    "57": {
+        "question": "Açık uçlu araştırma projelerine katılma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Açık projelere ilgi duyuyorum ve aktif olarak katılıyorum": "Fullstack Geliştirici",
+            "İlgileniyorum ama nadiren bu tür projelere katılıyorum": "Ön uç Geliştirici",
+            "Çalışma alanımla ilgili projelere zaman ayırmayı tercih ediyorum": "Arka uç Geliştirici",
+            "Projeleri uzaktan izlemekle ilgileniyorum ama onlara katılmıyorum": "Mobil Geliştirici",
+            "Açık araştırma projelerine katılmakla ilgilenmiyorum": "Oyun Geliştirici"
+        }
+    },
+    "58": {
+        "question": "İşinizde konteynerleştirmeyi (Docker gibi) kullanma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Konteynerleştirmeyi aktif olarak kullanıyorum ve bunu etkili bir yaklaşım olarak görüyorum": "Fullstack Geliştirici",
+            "Gerekirse konteynerleştirmeyi kullanıyorum, ancak her zaman değil": "Arka uç Geliştirici",
+            "Konteynerleştirmeyi ilginç bir teknoloji olarak görüyorum, ancak bu alanda fazla deneyimim yok": "Ön uç Geliştirici",
+            "İşimde konteynerleştirme kullanılmıyor": "Oyun Geliştirici",
+            "Konteynerleştirmeyle ilgileniyorum, ancak henüz uygulama fırsatı bulamadım/bulamadım": "Mobil Geliştirici"
+        }
+    },
+    "59": {
+        "question": "Mikro hizmet mimarilerinin geliştirilmesi hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "Projelerimde mikro hizmet mimarilerini aktif olarak kullanıyorum": "Arka uç Geliştirici",
+            "Mikro hizmet mimarileriyle ilgileniyorum, ancak bunları kullanma konusunda fazla deneyimim yok": "Fullstack Geliştirici",
+            "Mikro hizmet mimarilerini ilginç bir yön olarak görüyorum, ancak bunları henüz uygulamadım/uygulamadım": "Ön uç Geliştirici",
+            "İşimde mikro hizmet mimarileri kullanılmıyor": "Oyun Geliştirici",
+            "Mikro hizmet mimarileriyle pek ilgilenmiyor/ilgilenmiyor": "Mobil Geliştirici"
+        }
+    },
+    "60": {
+        "question": "Ürününüzün performansını ve kullanımını değerlendirmek için analitiği kullanma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Analitiği önemli bir araç olarak görüyorum ve ürünü geliştirmek için aktif olarak kullanıyorum": "Fullstack Geliştirici",
+            "Performansı ve kullanıcı deneyimini değerlendirmek için analitiği kullanıyorum": "Ön uç Geliştirici",
+            "İşimin bir parçası olarak analitiği uyguluyorum, ancak her zaman aktif değilim": "Arka uç Geliştirici",
+            "Analitik işimin bir parçası değil": "Oyun Geliştirici",
+            "Analitik kullanmıyorum veya bu analitiklere inanmayarak davranıyorum": "Mobil Geliştirici"
+        }
+    },
+    "61": {
+        "question": "Dağıtılmış sistemler ve bulut hizmetleriyle çalışma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Dağıtılmış sistemler ve bulut hizmetleriyle çalışmaktan hoşlanıyorum": "Fullstack Geliştirici",
+            "Gerektiğinde işimde bulut hizmetlerini kullanıyorum": "Arka uç Geliştirici",
+            "Dağıtılmış sistemleri ve bulut hizmetlerini ilginç bir alan olarak görüyorum, ancak fazla deneyimim yok": "Ön uç Geliştirici",
+            "Dağıtılmış sistemler ve bulut hizmetleriyle çalışmak benim sorumluluğumda değil": "Mobil Geliştirici",
+            "Dağıtılmış sistemler ve bulut hizmetleriyle çalışmakla pek ilgilenmiyor/ilgilenmiyor": "Oyun Geliştirici"
+        }
+    },
+    "62": {
+        "question": "Git gibi sürüm kontrol sistemlerini kullanma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "İşimde sürüm kontrol sistemlerini aktif olarak kullanıyorum": "Fullstack Geliştirici",
+            "Koddaki değişiklikleri izlemek ve projeler üzerinde işbirliği yapmak için Git kullanıyorum": "Arka uç Geliştirici",
+            "Kaynak kodunu yönetmek ve projeleri sürümlemek için sürüm kontrol sistemleriyle çalışıyorum": "Ön uç Geliştirici",
+            "Sürüm kontrol sistemlerini gerektiği gibi kullanıyorum, ancak her zaman değil": "Mobil Geliştirici",
+            "Her zaman sürüm kontrol sistemlerini kullanmıyorum veya diğer araçları tercih etmiyorum": "Oyun Geliştirici"
+        }
+    },
+    "63": {
+        "question": "Kod yeniden düzenleme ve proje optimizasyonu hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "Yeniden düzenleme ve optimizasyonu geliştirmenin ayrılmaz bir parçası olarak görüyorum ve bunları aktif olarak uyguluyorum": "Fullstack Geliştirici",
+            "Okunabilirliğini ve sürdürülebilirliğini artırmak için kodu yeniden düzenliyorum": "Arka uç Geliştirici",
+            "Üretkenliği ve verimliliği artırmak için projeleri optimize ediyorum": "Ön uç Geliştirici",
+            "Kod yeniden düzenleme ve proje optimizasyonu benim sorumluluğumda değil": "Mobil Geliştirici",
+            "Zaman kısıtlamaları nedeniyle her zaman kodu yeniden düzenlemiyorum veya projeleri optimize etmiyorum": "Oyun Geliştirici"
+        }
+    },
+    "64": {
+        "question": "Bir projedeki teknik borçlarla çalışma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Teknik borçları en aza indirmeye çalışıyorum ve bunları ortadan kaldırmak için aktif olarak çalışıyorum": "Fullstack Geliştirici",
+            "Bilerek teknik borçlara yaklaşıyorum ve daha sonra ortadan kaldırılmasını planlıyorum": "Arka uç Geliştirici",
+            "Teknik borçlarla çalışıyorum, işimin bir parçası olarak onlara yeterince dikkat ediyorum": "Ön uç Geliştirici",
+            "Teknik borçlar görevlerimde ele alınmıyor": "Mobil Geliştirici",
+            "Projenin mevcut ihtiyaçları nedeniyle teknik borçlara her zaman yeterince dikkat etmiyorum": "Oyun Geliştirici"
+        }
+    },
+    "65": {
+        "question": "Eşzamansız programlamayla çalışma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "İşimde zaman uyumsuz programlamayı aktif olarak kullanıyorum": "Arka uç Geliştirici",
+            "Gerektiğinde eşzamansız programlama kullanıyorum": "Fullstack Geliştirici",
+            "Eşzamansız programlamayı önemli bir araç olarak görüyorum ama onu her zaman uygulamıyorum": "Ön uç Geliştirici",
+            "Eşzamansız programlamayla çalışmak benim sorumluluğumda değil": "Mobil Geliştirici",
+            "Projelerimin özelliklerinden dolayı her zaman eşzamansız programlama kullanmıyorum": "Oyun Geliştirici"
+        }
+    },
+    "66": {
+        "question": "Sınırlı zaman kaynakları altında çalışmak konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Geçici kaynakları yönetiyorum ve sınırlı bir süre içinde verimli bir şekilde çalışıyorum": "Fullstack Geliştirici",
+            "Zaman kısıtlamalarıyla başa çıkmak için çalışmayı dikkatlice planlıyorum": "Arka uç Geliştirici",
+            "Sınırlı bir süre içinde artan konsantrasyonla çalışmaya hazırım": "Ön uç Geliştirici",
+            "Üretkenliğinizi kaybetmeden sınırlı bir zaman diliminde verimli bir şekilde çalışıyorum": "Mobil Geliştirici",
+            "Sınırlı zaman kaynakları altında çalışmak bir meydan okuma sunar": "Oyun Geliştirici"
+        }
+    },
+    "67": {
+        "question": "Mimari tartışmalara katılma ve uygulama mimarisini tasarlama konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Mimari tartışmalara ve tasarıma aktif olarak katılıyorum, karar vermeye katkıda bulunuyorum": "Fullstack Geliştirici",
+            "Mimari tartışmalara ve tasarıma katılma deneyimim var, fikirlerimi ve yorumlarımı sunmaya çalışıyorum": "Arka uç Geliştirici",
+            "Etkili çözümler geliştirmeye çalışarak mimari tartışmalara ve tasarıma katılıyorum": "Ön uç Geliştirici",
+            "Her zaman mimari tartışmalara katılmıyorum, gerekirse katılmaya hazırım": "Mobil Geliştirici",
+            "Mimari tartışmalara ve tasarıma katkılarım sınırlı, ancak süreci desteklemeye hazırım": "Oyun Geliştirici"
+        }
+    },
+    "68": {
+        "question": "Hata izleme sistemleriyle çalışma ve görev yönetimi hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "İşi organize etmek için hata izleme sistemlerini ve görev yönetim sistemlerini aktif olarak kullanıyorum": "Fullstack Geliştirici",
+            "İşi planlamak için hata izleme sistemleri ve görev yönetim sistemleri kullanıyorum": "Arka uç Geliştirici",
+            "İşi verimli bir şekilde organize etmek için hata izleme ve görev yönetim sistemlerini kullanmaya çalışıyorum": "Ön uç Geliştirici",
+            "Bu tür sistemleri kullanıyorum ama onlara her zaman büyük önem vermiyorum": "Mobil Geliştirici",
+            "Bu tür sistemlerle çalışmalarım minimum eylemle sınırlıdır": "Oyun Geliştirici"
+        }
+    },
+    "69": {
+        "question": "Diğer hizmetlerin ve üçüncü taraf kitaplıklarının apı'leriyle çalışma konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Diğer hizmetlerin API'lerini ve üçüncü taraf kitaplıklarını projelerime entegre ederek aktif olarak kullanıyorum": "Fullstack Geliştirici",
+            "Diğer hizmetlerin API'leri ve üçüncü taraf kitaplıklarıyla çalışma deneyimim var ve yenilerini hızla öğrenmeye hazırım": "Arka uç Geliştirici",
+            "Sorunları çözmek için bunları kullanarak diğer hizmetlerin API'leri ve üçüncü taraf kitaplıklarıyla nasıl çalışacağımı biliyorum": "Ön uç Geliştirici",
+            "Bu tür API'leri her zaman kullanmıyorum, ancak gerekirse yenilerine hakim olmaya hazırım": "Mobil Geliştirici",
+            "Bu tür sistemlerle ilgili deneyimim sınırlı ve bunları kullanmaktan kaçınmayı tercih ediyorum": "Oyun Geliştirici"
+        }
+    },
+    "70": {
+        "question": "Yazılımınızın performansını iyileştirmek için çalışmak konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Yazılımımın performansını aktif olarak optimize etmeye çalışıyorum": "Fullstack Geliştirici",
+            "Yazılımımdaki performansı dikkate almaya çalışıyorum ve mümkünse gerekli optimizasyonları yapıyorum": "Arka uç Geliştirici",
+            "Yazılımımın performansına dikkat ediyorum, ancak derin optimizasyonlar yapmak için her zaman yeterli zamanım yok": "Ön uç Geliştirici",
+            "Yazılım performansını optimize etmek benim önceliğim değil, ancak gerekirse geliştirmeye hazırım": "Mobil Geliştirici",
+            "Yazılım performansına fazla önem vermiyorum": "Oyun Geliştirici"
+        }
+    },
+    "71": {
+        "question": "işteki başarısızlıklara ve başarısızlıklara nasıl tepki veriyorsunuz?",
+        "answer": {
+            "Başarısızlıklardan ders almaya ve bunları kişisel ve profesyonel gelişim için kullanmaya çalışıyorum": "Fullstack Geliştirici",
+            "Başarısızlıkları gelişim sürecinin bir parçası olarak kabul ediyorum ve yeni bilgi ve deneyimlerle bunların üstesinden gelmeye çalışıyorum": "Arka uç Geliştirici",
+            "Başarısızlıkların nedenlerinin analizine dikkat ediyorum ve gelecekte bunları önlemek için çözümler bulmaya çalışıyorum": "Ön uç Geliştirici",
+            "Aksiliklerden geçmek her zaman kolay değildir, ancak onlardan yararlanmaya ve devam etmeye hazırım": "Mobil Geliştirici",
+            "Engellere rağmen başarısızlıklara odaklanmıyorum ve yeni başarılar için çabalıyorum": "Oyun Geliştirici"
+        }
+    },
+    "72": {
+        "question": "Takımdaki liderlik ve liderlik rolleri hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "Liderlik için çabalıyorum ve liderlik rollerini üstlenmeye hazırım": "Fullstack Geliştirici",
+            "Liderlik becerileri gösteriyorum ve ekip içinde önemli kararlar alma sorumluluğunu üstlenmeye hazırım": "Arka uç Geliştirici",
+            "İnisiyatif almaya ve ekip içinde karar vermeyi etkilemeye çalışıyorum": "Ön uç Geliştirici",
+            "Lider rolünde kendimi her zaman rahat hissetmiyorum, ancak gerekli durumlarda sorumluluk almaya hazırım": "Mobil Geliştirici",
+            "Liderlik rollerinden kaçınmayı ve ekip olarak işime odaklanmayı tercih ediyorum": "Oyun Geliştirici"
+        }
+    },
+    "73": {
+        "question": "Ekipteki çalışma ortamını nasıl destekliyorsunuz?",
+        "answer": {
+            "Dostane ve destekleyici bir ortam yaratmaya aktif olarak katılıyorum": "Fullstack Geliştirici",
+            "Olumlu ve üretken bir çalışma ortamı yaratmaya çalışıyorum": "Arka uç Geliştirici",
+            "Güven ilişkileri kurmaya ve olumlu bir iklimi sürdürmeye dikkat ediyorum": "Ön uç Geliştirici",
+            "Meslektaşlarım arasında takım ruhunu ve karşılıklı anlayışı destekliyorum": "Mobil Geliştirici",
+            "İşime konsantre olmayı ve çalışma ortamına aktif müdahaleden kaçınmayı tercih ediyorum": "Oyun Geliştirici"
+        }
+    },
+    "74": {
+        "question": "Projedeki veya görevlerdeki beklenmedik değişikliklere nasıl tepki veriyorsunuz?",
+        "answer": {
+            "Değişikliklere uyum sağlamaya ve eylem planımı hızla yeniden düzenlemeye çalışıyorum": "Fullstack Geliştirici",
+            "Değişiklikleri bir meydan okuma olarak kabul ediyorum ve yeni koşullara uygun çözümler bulmaya çalışıyorum": "Arka uç Geliştirici",
+            "Bunlara etkili bir şekilde yanıt vermek ve olumsuz sonuçları en aza indirmek için değişiklikleri analiz etmeye ve değerlendirmeye dikkat ediyorum": "Ön uç Geliştirici",
+            "Beklenmedik değişikliklere uyum sağlamak her zaman kolay değildir, ancak sakin kalmaya ve çözümler aramaya çalışıyorum": "Mobil Geliştirici",
+            "Beklenmedik değişikliklerden kaçınmayı tercih ediyorum ve projeler üzerinde çalışırken istikrarı hedefliyorum": "Oyun Geliştirici"
+        }
+    },
+    "75": {
+        "question": "işinizde motivasyonunuzu ve coşkunuzu nasıl koruyorsunuz?",
+        "answer": {
+            "Sürekli kişisel gelişim ve ilginç projeler için çabalıyorum": "Fullstack Geliştirici",
+            "Yeni teknolojilerden ve projelerden ilham almak istiyorum": "Arka uç Geliştirici",
+            "İş sonuçlarında memnuniyet buluyorum ve ilginç projelere katılıyorum": "Ön uç Geliştirici",
+            "Yeni zorluklar ve gelişim fırsatlarından ilham alıyorum": "Mobil Geliştirici",
+            "İlginç projeler üzerinde çalışmayı tercih ederim": "Oyun Geliştirici"
+        }
+    },
+    "76": {
+        "question": "Takımdaki çatışma durumlarını çözme konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Yapıcı çözümler bulmaya ve çatışmaları çözmeye çalışıyorum": "Fullstack Geliştirici",
+            "Çatışmaları nesnel ve sakince çözmeye yaklaşıyorum": "Arka uç Geliştirici",
+            "Çatışmaların çözümüne dikkat ediyorum ve diyalog kurmaya çalışıyorum": "Ön uç Geliştirici",
+            "Çatışmaları çözmek için çalışmaya hazır": "Mobil Geliştirici",
+            "Çatışmalardan kaçınmayı tercih ediyorum ve uyum için çabalıyorum": "Oyun Geliştirici"
+        }
+    },
+    "77": {
+        "question": "Yönetimden ve meslektaşlarınızdan gelen geri bildirimler hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "Geri bildirimi aktif olarak memnuniyetle karşılıyorum ve iyileştirmek için kullanıyorum": "Fullstack Geliştirici",
+            "Geri bildirimi becerilerimi geliştirmek için bir fırsat olarak görmeye çalışıyorum": "Arka uç Geliştirici",
+            "Geri bildirimlere dikkat ediyorum ve sürekli iyileştirme için çabalıyorum": "Ön uç Geliştirici",
+            "Kişisel gelişim için geri bildirimi kullanmaya çalışıyorum": "Mobil Geliştirici",
+            "Kendi değerlendirmelerime ve kararlarıma güvenmeyi tercih ederim": "Oyun Geliştirici"
+        }
+    },
+    "78": {
+        "question": "Meslektaşlarınızı mesleki gelişimlerinde eğitmek ve onlara yardım etmek konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Meslektaşlarımın eğitimine ve yardımına aktif olarak katılıyorum": "Fullstack Geliştirici",
+            "Meslektaşlarımı mesleki gelişimlerinde destekliyorum ve onlara yardım ediyorum": "Arka uç Geliştirici",
+            "Meslektaşlarımın eğitimine ve desteğine dikkat ediyorum": "Ön uç Geliştirici",
+            "Meslektaşlarını mesleki gelişimlerinde desteklemeye hazır": "Mobil Geliştirici",
+            "Başkalarının eğitimine aktif katılımdan kaçınarak büyümeme odaklanıyorum": "Oyun Geliştirici"
+        }
+    },
+    "79": {
+        "question": "Yaratıcı tıkaçların veya ilham eksikliğinin üstesinden nasıl geliyorsunuz?",
+        "answer": {
+            "Yeni ilham kaynakları arıyorum ve spor yapıyorum": "Fullstack Geliştirici",
+            "Yeni fikirlerle geri dönmek için faaliyetlerimi değiştiriyorum": "Arka uç Geliştirici",
+            "Sanat, müzik veya edebiyattan ilham almak istiyorum": "Ön uç Geliştirici",
+            "Ara veriyorum ve başka şeyler yapıyorum": "Mobil Geliştirici",
+            "Kendime Düşünmem için zaman ve alan veriyorum": "Oyun Geliştirici"
+        }
+    },
+    "80": {
+        "question": "işteki stresi ve baskıyı nasıl yönetiyorsunuz?",
+        "answer": {
+            "Gevşeme ve meditasyon tekniklerini uyguluyorum": "Fullstack Geliştirici",
+            "İş-yaşam dengesini korumaya çalışıyorum": "Arka uç Geliştirici",
+            "Spor ve egzersiz kullanıyorum": "Ön uç Geliştirici",
+            "Verimli iş planlaması ve organizasyonu için çabalıyorum": "Mobil Geliştirici",
+            "Olumlu davranış stratejileri kullanıyorum": "Oyun Geliştirici"
+        }
+    },
+    "81": {
+        "question": "İşinize hangi tutkuları getiriyorsunuz?",
+        "answer": {
+            "Çalışmayı çeşitli ve ilginç hale getirerek tamamlıyorlar": "Fullstack Geliştirici",
+            "Hobiler ve iş arasında bir bağlantı buluyorum": "Arka uç Geliştirici",
+            "İşe yaratıcılığı etkiler": "Ön uç Geliştirici",
+            "Motivasyon ve ilham kaynağı olarak kullanıyorum": "Mobil Geliştirici",
+            "Proje seçimini ve çalışma yönünü etkiler": "Oyun Geliştirici"
+        }
+    },
+    "82": {
+        "question": "Tutkunuz yaratıcı düşüncenizi ve problem çözmenizi nasıl etkiliyor?",
+        "answer": {
+            "Yaratıcı düşünmeyi ve alışılmışın dışında çözümler bulmayı teşvik ediyor": "Fullstack Geliştirici",
+            "Sorunları çözmek için ilham kaynağı olarak kullanıyorum": "Arka uç Geliştirici",
+            "Ufkunu genişletiyor ve yenilikçi yaklaşımların kapasitesini etkiliyor": "Ön uç Geliştirici",
+            "Sorunları farklı açılardan görmenize ve beklenmedik çözümler bulmanıza yardımcı olur": "Mobil Geliştirici",
+            "İş tercihlerini ve problem çözme yöntemlerinin seçimini etkiler": "Oyun Geliştirici"
+        }
+    },
+    "83": {
+        "question": "Tutkunuz işe karşı tutumunuzu nasıl etkiliyor?",
+        "answer": {
+            "İlham veriyor ve coşkunun yüksek seviyede kalmasına yardımcı oluyor": "Fullstack Geliştirici",
+            "Ek bir motivasyon kaynağıdır": "Arka uç Geliştirici",
+            "İşi daha eğlenceli ve ilginç hale getiriyor": "Ön uç Geliştirici",
+            "İlham almaya ve işte eğlenmeye yardımcı olur": "Mobil Geliştirici",
+            "İş tercihlerini ve gelişim yönlerini etkiler": "Oyun Geliştirici"
+        }
+    },
+    "84": {
+        "question": "İşe başvurmak için tutkularınızdan hangi becerileri öğreniyorsunuz?",
+        "answer": {
+            "Yaratıcılık, problem çözme ve iletişim becerilerini geliştirin": "Fullstack Geliştirici",
+            "Geliştirme verimliliğini artırmak için hobilerimdeki becerileri kullanıyorum": "Arka uç Geliştirici",
+            "Ufkunu genişletiyor ve yenilikçi yaklaşımları benimseme yeteneğini etkiliyor": "Ön uç Geliştirici",
+            "Yaratıcılık, analiz ve işe alım becerilerini geliştirin": "Mobil Geliştirici",
+            "Oyun mekaniklerinin tasarımı, geliştirilmesi ve test edilmesinde beceriler geliştirmek": "Oyun Geliştirici"
+        }
+    },
+    "85": {
+        "question": "Tutkunuz ekip olarak çalışmanızı nasıl etkiliyor?",
+        "answer": {
+            "Meslektaşlarınızla ortak bir dil bulmaya katkıda bulunur": "Fullstack Geliştirici",
+            "İletişim kurmanın ve etkileşim kurmanın bir yolu olarak kullanıyorum": "Arka uç Geliştirici",
+            "Meslektaşların fikirlerine daha açık hale getiriyor": "Ön uç Geliştirici",
+            "Projeler üzerinde işbirliğini teşvik ediyor": "Mobil Geliştirici",
+            "Oyun geliştirmede etkili etkileşimi etkiler": "Oyun Geliştirici"
+        }
+    },
+    "86": {
+        "question": "Tutkunuz kişisel gelişiminizi nasıl etkiliyor?",
+        "answer": {
+            "Bilgi ve kendini geliştirme susuzluğunu teşvik ediyor": "Fullstack Geliştirici",
+            "Öğrenmek için motivasyon kaynağı olarak kullanıyorum": "Arka uç Geliştirici",
+            "Yeni bilgilerin özümsenmesine yardımcı olur": "Ön uç Geliştirici",
+            "Yeni teknolojileri Öğrenmeye ilham veriyor": "Mobil Geliştirici",
+            "Oyun endüstrisinde sürekli kendini geliştirmeyi teşvik ediyor": "Oyun Geliştirici"
+        }
+    },
+    "87": {
+        "question": "Tutkunuz sorumluluk duygunuzu ve karar verme sürecinizi nasıl etkiliyor?",
+        "answer": {
+            "İş sonuçları için sorumluluk duygusunu güçlendirir": "Fullstack Geliştirici",
+            "Sorumlu karar vermeyi teşvik ediyor": "Arka uç Geliştirici",
+            "Daha kararlı ve kararlı hale getirir": "Ön uç Geliştirici",
+            "Kişisel değerlere dayalı karar vermeye yardımcı olur": "Mobil Geliştirici",
+            "Oyun endüstrisindeki projelerin kalitesinden sorumlu olmak": "Oyun Geliştirici"
+        }
+    },
+    "88": {
+        "question": "İş-yaşam dengesini korumak için hangi yöntemleri kullanıyorsunuz?",
+        "answer": {
+            "Sınırları ve zaman çerçevelerini belirleme": "Fullstack Geliştirici",
+            "Boş zamanlarınızı ve açık hava etkinliklerinizi planlamak": "Arka uç Geliştirici",
+            "Gevşeme ve Meditasyon Tekniklerini Kullanmak": "Ön uç Geliştirici",
+            "Aileye ve hobilere zaman ayırmak için teknolojiyi uygulamak": "Mobil Geliştirici",
+            "Çalışma saatlerini ve yüz yüze aktiviteleri ayırmak için stratejiler geliştirmek": "Oyun Geliştirici"
+        }
+    },
+    "89": {
+        "question": "Çalışırken fiziksel ve duygusal sağlığınızı nasıl koruyorsunuz?",
+        "answer": {
+            "Düzenli molalar ve Egzersiz": "Fullstack Geliştirici",
+            "İşten sonra spor yapmak": "Arka uç Geliştirici",
+            "Gevşeme Tekniklerini ve nefes Egzersizlerini kullanmak": "Ön uç Geliştirici",
+            "Boş zamanlarında aktif yaşam tarzı": "Mobil Geliştirici",
+            "Günlük Yaşamda Sağlıklı Alışkanlıklar": "Oyun Geliştirici"
+        }
+    },
+    "90": {
+        "question": "Bt'deki profesyonel gelişiminizi nasıl destekliyorsunuz?",
+        "answer": {
+            "Sürekli yeni teknolojiler öğreniyorum": "Fullstack Geliştirici",
+            "Profesyonel kurslara ve eğitimlere katılıyorum": "Arka uç Geliştirici",
+            "Alandaki literatürü ve makaleleri inceliyorum": "Ön uç Geliştirici",
+            "Kendi projelerimde yeni teknolojilerle denemeler yapıyorum": "Mobil Geliştirici",
+            "Profesyonel toplulukla konuşuyorum ve deneyimlerimi paylaşıyorum": "Oyun Geliştirici"
+        }
+    },
+    "91": {
+        "question": "İş gününüzü nasıl organize etmeyi tercih edersiniz?",
+        "answer": {
+            "Planlıyorum ve programa sıkı sıkıya bağlıyım": "Fullstack Geliştirici",
+            "Esnek çalışma saatlerini tercih ederim": "Arka uç Geliştirici",
+            "Sakin bir ortamda çalışmayı tercih ederim": "Ön uç Geliştirici",
+            "Görevler arasında sık sık geçiş yapıyorum": "Mobil Geliştirici",
+            "Takım olarak çalışmayı tercih ederim": "Oyun Geliştirici"
+        }
+    },
+    "92": {
+        "question": "Uzak bir formatta çalışmak hakkında ne düşünüyorsunuz?",
+        "answer": {
+            "Ofiste çalışmayı tercih ederim": "Fullstack Geliştirici",
+            "Uzaktan çalışmayı tercih ederim": "Arka uç Geliştirici",
+            "Karma çalışma formatını tercih ederim": "Ön uç Geliştirici",
+            "Meslektaşlarımla etkili bir şekilde etkileşim kurmak için ofiste çalışmayı tercih ederim": "Mobil Geliştirici",
+            "Nerede çalıştığım umurumda değil": "Oyun Geliştirici"
+        }
+    },
+    "93": {
+        "question": "Aynı anda birçok proje üzerinde çalışmak konusunda ne düşünüyorsunuz?",
+        "answer": {
+            "Birden fazla proje üzerinde çalışmak için zamanı ve kaynakları yönetiyorum": "Fullstack Geliştirici",
+            "Tek bir projeye odaklanmayı tercih ederim": "Arka uç Geliştirici",
+            "Net önceliklere sahip birkaç proje üzerinde çalışmaya hazır": "Ön uç Geliştirici",
+            "Projeler arasında sık sık geçiş yapıyorum": "Mobil Geliştirici",
+            "Bir ana projeye sahip olmayı tercih ederim": "Oyun Geliştirici"
+        }
+    },
+    "94": {
+        "question": "Problemleri çözmek için algoritmaları ve veri yapılarını seçme konusunda nasıl karar veriyorsunuz?",
+        "answer": {
+            "Görevin gereksinimlerini analiz ediyorum ve uygun olanları seçiyorum": "Fullstack Geliştirici",
+            "Görevin boyutuna ve yüküne dayanıyorum": "Arka uç Geliştirici",
+            "Kanıtlanmış algoritmaları ve veri yapılarını tercih ederim": "Ön uç Geliştirici",
+            "Mobil cihazlarda çalışırken üretkenliğe odaklanıyorum": "Mobil Geliştirici",
+            "Seçim, oyun mekaniği ve performans gereksinimlerine bağlıdır": "Oyun Geliştirici"
+        }
+    },
+    "95": {
+        "question": "Projenin yapısını ve mimarisini nasıl düzenliyorsunuz?",
+        "answer": {
+            "Projeyi ölçeklendirmek ve sürdürmek için modüler çerçeve": "Fullstack Geliştirici",
+            "Etkili bileşen etkileşimi için açık çerçeve": "Arka uç Geliştirici",
+            "Proje görevlerine ve gereksinimlerine bağlı Esnek yapı": "Ön uç Geliştirici",
+            "Bakım kolaylığı için modüler yapı": "Mobil Geliştirici",
+            "Yüksek performans ve esneklik için optimize edilmiş çerçeve": "Oyun Geliştirici"
+        }
+    },
+    "96": {
+        "question": "Kodun saflığını ve sürdürülebilirliğini nasıl değerlendiriyorsunuz?",
+        "answer": {
+            "Uygulamanın anlaşılmasını ve değiştirilebilirliğini geliştirmede çok önemli bir rol oynar": "Fullstack Geliştirici",
+            "Projenin uzun vadeli sürdürülebilirliği ve genişletilebilirliği için önemlidir": "Arka uç Geliştirici",
+            "Ekip işbirliğini kolaylaştırmak için temiz kod yazma arayışı": "Ön uç Geliştirici",
+            "Hataları bulma ve düzeltme süresini azaltmaya yardımcı olun": "Mobil Geliştirici",
+            "Oyun projelerini etkili bir şekilde geliştirmek ve sürdürmek için önemlidir": "Oyun Geliştirici"
+        }
+    },
+    "97": {
+        "question": "Uygulamaları barındırmak için bir barındırma sağlayıcısı seçerken hangi faktörler önemlidir?",
+        "answer": {
+            "Güvenilirlik, hız, destek kalitesi ve fiyat-performans oranı": "Fullstack Geliştirici",
+            "Kullanıcı dostu araçlar, yüksek düzeyde güvenlik ve Garantili kullanılabilirlik": "Arka uç Geliştirici",
+            "Esnek özelleştirme, hızlı erişim ve modern teknolojilere destek": "Ön uç Geliştirici",
+            "Hızlı içerik dağıtım yetenekleri ve ölçeklenebilirlik": "Mobil Geliştirici",
+            "Performans, oyun uygulamaları için optimizasyon ve özel araçlar için destek": "Oyun Geliştirici"
+        }
+    },
+    "98": {
+        "question": "Uygulamaları dağıtmak için bir sunucu seçerken hangi kriterler önemlidir?",
+        "answer": {
+            "Yüksek performans, güvenilirlik ve ölçeklenebilirlik": "Fullstack Geliştirici",
+            "Sunucu uygulamalarının ve veritabanlarının kararlı çalışması için özellikler": "Arka uç Geliştirici",
+            "Web sunucularının ve ön uç uygulamalarının barındırılmasıyla uyumluluk": "Ön uç Geliştirici",
+            "Çeşitli cihazlarda rahat çalışma için hızlı yanıt": "Mobil Geliştirici",
+            "Bilgi işlem yetenekleri ve oyun motorlarıyla uyumluluk": "Oyun Geliştirici"
+        }
+    },
+    "99": {
+        "question": "Geliştirilecek bir bilgisayar seçerken genellikle hangi kriterleri göz önünde bulunduruyorsunuz?",
+        "answer": {
+            "İşlemci ve grafik kartı performansı": "Fullstack Geliştirici",
+            "RAM miktarı ve sürücülerin hızı": "Arka uç Geliştirici",
+            "Ergonomi ve Kullanılabilirlik": "Ön uç Geliştirici",
+            "Mobilite ve Çevrimdışı Çalışma Süresi": "Mobil Geliştirici",
+            "Grafikler ve animasyonlarla çalışmak için özel özellikler": "Oyun Geliştirici"
+        }
+    },
+    "100": {
+        "question": "Karakterinizin dijital karşılığını hangisini tercih edersiniz?",
+        "answer": {
+            "Hızlı ve zengin özelliklere sahip gadget": "Fullstack Geliştirici",
+            "Canlı ve yaratıcı multimedya içeriği": "Ön uç Geliştirici",
+            "Güvenilir ve verimli yazılım": "Arka uç Geliştirici",
+            "Kullanıcı dostu arayüze sahip mobil uygulama": "Mobil Geliştirici",
+            "Heyecan verici ve ilgi çekici video oyunu": "Oyun Geliştirici"
+        }
+    },
+    "101": {
+        "question": "Yazılımınızın kendine ait bir karakteri olsaydı, bu nasıl olurdu?",
+        "answer": {
+            "Her zaman başkalarına yardım etmeye ve desteklemeye hazır, güvenilir bir kıdemli Geliştirici gibi olurdu": "Fullstack Geliştirici",
+            "Sürekli yeni fikirler ve alışılmışın dışında çözümler arayan yaratıcı bir tasarımcı gibi olurdu": "Ön uç Geliştirici",
+            "Her eylemde mantık ve kesinlik arayan deneyimli bir mühendis gibi olurdu": "Arka uç Geliştirici",
+            "Her zaman yeni teknolojileri ve teknikleri keşfetmeye hazır bir maceracı gibi olurdu": "Mobil Geliştirici",
+            "Eşsiz ve ilgi çekici sanal dünyalar yaratan bir oyun mekaniği ustası gibi olurdu": "Oyun Geliştirici"
+        }
+    }
+}

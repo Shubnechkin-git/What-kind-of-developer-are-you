@@ -1,0 +1,999 @@
+{
+    "1": {
+        "question": "Which fields of activity attract you the most?",
+        "answer": {
+            "Fashion and Design": "Frontend Developer",
+            "Medicine and Healthcare": "Mobile Developer",
+            "Business and Management": "Backend Developer",
+            "Creativity and Art": "Frontend Developer",
+            "Games and Entertainment": "Game Developer"
+        }
+    },
+    "2": {
+        "question": "What kind of hobby is closest to you?",
+        "answer": {
+            "Drawing and creativity": "Frontend Developer",
+            "Sports and active lifestyle": "Mobile Developer",
+            "Learning new languages and cultures": "Backend Developer",
+            "Computer games and gaming": "Game Developer",
+            "Reading and analyzing literature": "Frontend Developer"
+        }
+    },
+    "3": {
+        "question": "Which part of the project do you prefer to develop?",
+        "answer": {
+            "Interface and User experience": "Frontend Developer",
+            "Backend and server logic": "Backend Developer",
+            "Both parts of the project are equally interesting": "Fullstack Developer"
+        }
+    },
+    "4": {
+        "question": "What types of applications would you be most interested in?",
+        "answer": {
+            "Websites and online platforms": "Fullstack Developer",
+            "Mobile applications for smartphones": "Mobile Developer",
+            "Computer games and entertainment applications": "Game Developer",
+            "Management and Analytics systems": "Backend Developer"
+        }
+    },
+    "5": {
+        "question": "Which work style is more comfortable for you?",
+        "answer": {
+            "Working on specific tasks and functionality": "Backend Developer",
+            "Working with design and user interface": "Frontend Developer",
+            "Mobile application development and performance optimization": "Mobile Developer",
+            "Game development and creative approach to projects": "Game Developer"
+        }
+    },
+    "6": {
+        "question": "Which operating system do you prefer?",
+        "answer": {
+            "iOS": "Mobile Developer",
+            "Android": "Mobile Developer",
+            "Windows": "Backend Developer",
+            "Linux": "Backend Developer",
+            "It doesn't matter": "Fullstack Developer"
+        }
+    },
+    "7": {
+        "question": "Attitude to data analysis?",
+        "answer": {
+            "I like to analyze data and extract information": "Backend Developer",
+            "I prefer to work with interfaces and data visualization": "Frontend Developer",
+            "Interest in the development of algorithms and models of MO": "Game Developer",
+            "Not interested in data analysis": "Mobile Developer"
+        }
+    },
+    "8": {
+        "question": "Attitude to working with networks and protocols?",
+        "answer": {
+            "Interest in network technologies and distributed systems development": "Backend Developer",
+            "Focus on the client side of applications": "Frontend Developer",
+            "Interest in network gaming infrastructure": "Game Developer",
+            "Network technologies do not attract": "Mobile Developer"
+        }
+    },
+    "9": {
+        "question": "Preferred role in the team?",
+        "answer": {
+            "Lead Developer making key architectural decisions": "Backend Developer",
+            "Designing and designing the application interface": "Frontend Developer",
+            "Development of game mechanics and interaction of game objects": "Game Developer",
+            "Work on all aspects of the project": "Fullstack Developer"
+        }
+    },
+    "10": {
+        "question": "Code testing preferences?",
+        "answer": {
+            "Unit tests and automated test scenarios": "Backend Developer",
+            "Testing the user interface and interaction through scenarios": "Frontend Developer",
+            "Testing game mechanics and systems in real game situations": "Game Developer",
+            "I don't attach much importance to code testing": "Mobile Developer"
+        }
+    },
+    "11": {
+        "question": "Value in work?",
+        "answer": {
+            "Creativity and self-expression": "Frontend Developer",
+            "Process analysis and optimization": "Backend Developer",
+            "Creating innovative products": "Game Developer",
+            "Working with modern technologies": "Mobile Developer"
+        }
+    },
+    "12": {
+        "question": "Preferences in learning new skills?",
+        "answer": {
+            "Independent study and practical application": "Frontend Developer",
+            "Professional courses and trainings": "Backend Developer",
+            "Participation in hackathons and open projects": "Game Developer",
+            "University or college education": "Mobile Developer"
+        }
+    },
+    "13": {
+        "question": "Attitude to teamwork?",
+        "answer": {
+            "I prefer to work alone": "Frontend Developer",
+            "I prefer to work in small groups with clearly distributed roles": "Backend Developer",
+            "I like to work in large teams with diverse skills": "Game Developer",
+            "I prefer to work with a small number of specialists": "Mobile Developer"
+        }
+    },
+    "14": {
+        "question": "The main criteria for choosing technologies for a project?",
+        "answer": {
+            "Ease of use and fast development": "Frontend Developer",
+            "Performance and scalability": "Backend Developer",
+            "Creating creative and unique products": "Game Developer",
+            "Compatibility with various devices and platforms": "Mobile Developer"
+        }
+    },
+    "15": {
+        "question": "Attitude to working with databases?",
+        "answer": {
+            "Working with relational databases and SQL queries": "Backend Developer",
+            "Working with NoSQL databases and managing distributed data": "Frontend Developer",
+            "Using databases to store game statistics": "Game Developer",
+            "Working with databases is not my responsibility": "Mobile Developer"
+        }
+    },
+    "16": {
+        "question": "Similar programming languages?",
+        "answer": {
+            "JavaScript": "Frontend Developer",
+            "Python": "Backend Developer",
+            "C#": "Game Developer",
+            "Swift": "Mobile Developer",
+            "Java": "Fullstack Developer"
+        }
+    },
+    "17": {
+        "question": "Important aspects in software development?",
+        "answer": {
+            "User Interaction": "Frontend Developer",
+            "Stability and Security": "Backend Developer",
+            "Exciting gameplay": "Game Developer",
+            "Performance and Optimization": "Mobile Developer",
+            "Full functionality and flexibility": "Fullstack Developer"
+        }
+    },
+    "18": {
+        "question": "Attitude to working with bulk data?",
+        "answer": {
+            "Analysis and processing of large amounts of data": "Backend Developer",
+            "Working with small and medium amounts of data": "Frontend Developer",
+            "Working with data is not a priority": "Mobile Developer",
+            "Working with data in the gaming industry": "Game Developer",
+            "Using data for personalized products": "Fullstack Developer"
+        }
+    },
+    "19": {
+        "question": "Software testing preferences?",
+        "answer": {
+            "Thorough tests for all components and functions": "Backend Developer",
+            "Testing the user experience on various devices": "Frontend Developer",
+            "Game testing to check mechanics and balance": "Game Developer",
+            "Software testing is not my responsibility": "Mobile Developer",
+            "Automated tests for all aspects of the application": "Fullstack Developer"
+        }
+    },
+    "20": {
+        "question": "Assessment of skills in development?",
+        "answer": {
+            "I am confident in my knowledge and skills": "Fullstack Developer",
+            "Always ready to learn and improve": "Frontend Developer",
+            "More experience is needed to achieve the desired results": "Backend Developer",
+            "The ability to find creative solutions to complex problems": "Game Developer",
+            "Assessment of my skills does not matter": "Mobile Developer"
+        }
+    },
+    "21": {
+        "question": "Preferences in the work environment?",
+        "answer": {
+            "Clean and minimalistic workspace": "Frontend Developer",
+            "Organized and efficient workplace": "Backend Developer",
+            "Comfortable and cozy environment": "Mobile Developer",
+            "Inspiring and motivating workplace": "Game Developer",
+            "Place of work does not matter": "Fullstack Developer"
+        }
+    },
+    "22": {
+        "question": "Preferences in learning new technologies?",
+        "answer": {
+            "Self-study and practice": "Fullstack Developer",
+            "Training courses and online training": "Frontend Developer",
+            "Reading literature and documentation": "Backend Developer",
+            "Application of new technologies in projects": "Game Developer",
+            "Not actively exploring new technologies": "Mobile Developer"
+        }
+    },
+    "23": {
+        "question": "How do you rate your problem-solving ability?",
+        "answer": {
+            "I consider myself an excellent problem solver and am ready to accept challenges of any complexity": "Fullstack Developer",
+            "I confidently solve problems using my analytical approach and technical skills": "Backend Developer",
+            "I am ready to look for new solutions and approaches to solving problems, even if it requires experimentation and testing": "Frontend Developer",
+            "It is not always easy to solve problems, but I am ready to make efforts and use my experience to solve them": "Mobile Developer",
+            "I prefer to avoid problems and strive to plan my work in such a way as to avoid conflict situations": "Game Developer"
+        }
+    },
+    "24": {
+        "question": "Preferred development tools?",
+        "answer": {
+            "IDE or code editors": "Fullstack Developer",
+            "Graphic editors": "Frontend Developer",
+            "Command line and Utilities": "Backend Developer",
+            "Integrated Development Environments": "Game Developer",
+            "Simple tools and solutions": "Mobile Developer"
+        }
+    },
+    "25": {
+        "question": "Attitude to working on big projects?",
+        "answer": {
+            "Passionate and interested": "Fullstack Developer",
+            "Prefers small and medium-sized projects": "Frontend Developer",
+            "Ready to take on a challenge and solve complex tasks": "Backend Developer",
+            "It's interesting to work on projects with a large audience": "Mobile Developer",
+            "It is comfortable to work on projects of varying complexity": "Game Developer"
+        }
+    },
+    "26": {
+        "question": "Attitude to adaptation to new requirements and technologies?",
+        "answer": {
+            "Flexible and open-minded": "Fullstack Developer",
+            "Consciously and purposefully": "Frontend Developer",
+            "Carefully and after careful analysis": "Backend Developer",
+            "With passion and desire to learn new things": "Mobile Developer",
+            "I prefer stability and avoid changes": "Game Developer"
+        }
+    },
+    "27": {
+        "question": "Preferences in solving problems and correcting errors in the code?",
+        "answer": {
+            "Systematically and using careful analysis": "Fullstack Developer",
+            "Creatively and using non-standard approaches": "Frontend Developer",
+            "Logically and using debugging methods": "Backend Developer",
+            "Experimentally and through trial and error": "Mobile Developer",
+            "I prefer to avoid problems and mistakes": "Game Developer"
+        }
+    },
+    "28": {
+        "question": "Attitude to participation in technical conferences and events?",
+        "answer": {
+            "I actively participate and present my projects": "Fullstack Developer",
+            "I visit and share my experience": "Frontend Developer",
+            "I participate to keep up to date with the latest trends": "Backend Developer",
+            "I am interested in listening to lectures and participating in discussions": "Mobile Developer",
+            "I prefer to avoid such events": "Game Developer"
+        }
+    },
+    "29": {
+        "question": "Attitude to cross-platform development?",
+        "answer": {
+            "I see a huge potential in this and I am ready to study it": "Fullstack Developer",
+            "I use it to create universal applications": "Frontend Developer",
+            "I prefer to focus on one platform": "Backend Developer",
+            "I see this as an interesting direction": "Mobile Developer",
+            "I'm not really interested in cross-platform development": "Game Developer"
+        }
+    },
+    "30": {
+        "question": "What role does technical knowledge play in your professional life?",
+        "answer": {
+            "They are the basis of my work": "Fullstack Developer",
+            "Important, but not the only aspect": "Frontend Developer",
+            "Necessary for solving specific tasks": "Backend Developer",
+            "Used in certain areas of my work": "Mobile Developer",
+            "They are not a priority in my profession": "Game Developer"
+        }
+    },
+    "31": {
+        "question": "Attitude to open-source tools and libraries",
+        "answer": {
+            "Active use and contribution to the community": "Fullstack Developer",
+            "Use in your projects": "Frontend Developer",
+            "Preference for licensed software": "Backend Developer",
+            "Rare use, but open to new": "Mobile Developer",
+            "No interest in open source": "Game Developer"
+        }
+    },
+    "32": {
+        "question": "Working with databases and storing data",
+        "answer": {
+            "Confident knowledge of different types of databases": "Fullstack Developer",
+            "Specialization in the database of web applications": "Backend Developer",
+            "Interest in data storage in mobile applications": "Mobile Developer",
+            "Working with a database in game development": "Game Developer",
+            "No interest in working with a database": "Frontend Developer"
+        }
+    },
+    "33": {
+        "question": "What role does speed and optimization play in your work?",
+        "answer": {
+            "Key aspects of the work": "Backend Developer",
+            "I strive to create fast interfaces": "Frontend Developer",
+            "Optimization for mobile applications": "Mobile Developer",
+            "Optimizing code in games": "Game Developer",
+            "Not a priority in work": "Fullstack Developer"
+        }
+    },
+    "34": {
+        "question": "How do you feel about working with algorithms and data structures?",
+        "answer": {
+            "I use it confidently in projects": "Fullstack Developer",
+            "I use it in web development": "Backend Developer",
+            "Knowledge helps in mobile development": "Mobile Developer",
+            "Important in game projects": "Game Developer",
+            "Not focusing": "Frontend Developer"
+        }
+    },
+    "35": {
+        "question": "How do you feel about testing and ensuring the quality of your code?",
+        "answer": {
+            "I adhere to strict methods": "Backend Developer",
+            "I strive to create tests": "Frontend Developer",
+            "Testing is important for mobile applications": "Mobile Developer",
+            "Testing game mechanics": "Game Developer",
+            "Not a priority": "Fullstack Developer"
+        }
+    },
+    "36": {
+        "question": "How do you feel about updates and new versions of technologies?",
+        "answer": {
+            "I keep track of updates and adapt quickly": "Fullstack Developer",
+            "I am interested in new versions in the backend": "Backend Developer",
+            "I try to keep up to date with the latest trends": "Frontend Developer",
+            "Using new technologies in mobile applications": "Mobile Developer",
+            "Has no significant impact": "Game Developer"
+        }
+    },
+    "37": {
+        "question": "How do you feel about versatility and adaptability in development?",
+        "answer": {
+            "I strive to create multifunctional and adaptive applications": "Fullstack Developer",
+            "I pay attention to the adaptability of web applications": "Frontend Developer",
+            "I am interested in adaptive mobile development": "Mobile Developer",
+            "Adaptability of game projects": "Game Developer",
+            "Not always priorities": "Backend Developer"
+        }
+    },
+    "38": {
+        "question": "How do you feel about developing skills outside of programming?",
+        "answer": {
+            "I strive to develop skills in various fields": "Fullstack Developer",
+            "I devote time to developing design skills": "Frontend Developer",
+            "I am interested in management and communication training": "Backend Developer",
+            "Developing game design skills": "Game Developer",
+            "I'm focusing on developing technical skills": "Mobile Developer"
+        }
+    },
+    "39": {
+        "question": "What is the most important aspect of development for you - execution speed or code quality?",
+        "answer": {
+            "Execution speed": "Frontend Developer",
+            "Code Quality": "Backend Developer",
+            "Both aspects are important": "Fullstack Developer",
+            "Depends on the context of the project": "Game Developer",
+            "I don't have a clear preference": "Mobile Developer"
+        }
+    },
+    "40": {
+        "question": "How do you feel about participating in various conferences and events?",
+        "answer": {
+            "I actively participate and present my projects": "Fullstack Developer",
+            "I visit and share my experience": "Frontend Developer",
+            "I participate to keep up to date with the latest trends": "Backend Developer",
+            "It is interesting to listen to lectures and participate in discussions": "Mobile Developer",
+            "I prefer to avoid such events": "Game Developer"
+        }
+    },
+    "41": {
+        "question": "Animation in your projects?",
+        "answer": {
+            "An important element of the interface and interaction": "Frontend Developer",
+            "Improving the user experience in mobile applications": "Mobile Developer",
+            "A key role in creating gameplay": "Game Developer",
+            "Improving data visualization in web applications": "Backend Developer",
+            "Don't matter much": "Fullstack Developer"
+        }
+    },
+    "42": {
+        "question": "Working with artificial intelligence (AI) and machine learning (MO)?",
+        "answer": {
+            "Active use in their projects": "Fullstack Developer",
+            "Improving web applications": "Backend Developer",
+            "Integration into mobile applications": "Mobile Developer",
+            "Improving the gaming experience": "Game Developer",
+            "Not too interested": "Frontend Developer"
+        }
+    },
+    "43": {
+        "question": "Using virtual and augmented reality in projects?",
+        "answer": {
+            "Active use of technology": "Game Developer",
+            "Working with virtual and augmented reality in mobile applications": "Mobile Developer",
+            "Interest in using in web projects": "Frontend Developer",
+            "Business process optimization": "Backend Developer",
+            "I don't attach much importance": "Fullstack Developer"
+        }
+    },
+    "44": {
+        "question": "Working with blockchain technologies?",
+        "answer": {
+            "Active participation and creation of decentralized applications": "Fullstack Developer",
+            "Ensuring data security in web projects": "Backend Developer",
+            "Integration into mobile applications": "Mobile Developer",
+            "Application in games": "Game Developer",
+            "I don't attach much importance": "Frontend Developer"
+        }
+    },
+    "45": {
+        "question": "The role of security in your work?",
+        "answer": {
+            "Great attention to security": "Backend Developer",
+            "Creating secure interfaces": "Frontend Developer",
+            "An important aspect of mobile applications": "Mobile Developer",
+            "Ensuring security in games": "Game Developer",
+            "Not a priority": "Fullstack Developer"
+        }
+    },
+    "46": {
+        "question": "Creating multilingual applications?",
+        "answer": {
+            "Active creation for different languages": "Fullstack Developer",
+            "Audience expansion in web projects": "Backend Developer",
+            "Creating interfaces for different devices": "Mobile Developer",
+            "Application in games": "Game Developer",
+            "I don't attach much importance": "Frontend Developer"
+        }
+    },
+    "47": {
+        "question": "Using responsive design in projects?",
+        "answer": {
+            "To ensure cross-platform compatibility": "Fullstack Developer",
+            "Improving the user experience in web applications": "Backend Developer",
+            "Creating mobile applications": "Mobile Developer",
+            "To ensure an optimal gaming experience": "Game Developer",
+            "It doesn't really matter": "Frontend Developer"
+        }
+    },
+    "48": {
+        "question": "Using graphics libraries and frameworks?",
+        "answer": {
+            "To create visual effects": "Frontend Developer",
+            "For data processing and visualization": "Backend Developer",
+            "Application of modern technologies in mobile applications": "Mobile Developer",
+            "To create impressive visual effects in games": "Game Developer",
+            "Doesn't really matter": "Fullstack Developer"
+        }
+    },
+    "49": {
+        "question": "Creating your own UI components and libraries?",
+        "answer": {
+            "Active creation for reuse": "Fullstack Developer",
+            "Using it to create unique interfaces": "Frontend Developer",
+            "Development for mobile applications": "Mobile Developer",
+            "Application in games": "Game Developer",
+            "I don't attach much importance": "Backend Developer"
+        }
+    },
+    "50": {
+        "question": "Implementing functional programming into projects?",
+        "answer": {
+            "To create high-performance applications": "Fullstack Developer",
+            "Simplification of web application development": "Backend Developer",
+            "Performance improvement in mobile applications": "Mobile Developer",
+            "Building reliable gaming systems": "Game Developer",
+            "Doesn't really matter": "Frontend Developer"
+        }
+    },
+    "51": {
+        "question": "How do you feel about working with DevOps practices and process automation?",
+        "answer": {
+            "I'm passionate about DevOps and automation": "Fullstack Developer",
+            "I use some DevOps practices": "Backend Developer",
+            "I prefer to focus on code development": "Frontend Developer",
+            "I'm working on automation as part of my tasks": "Game Developer",
+            "I'm not really interested in DevOps practices": "Mobile Developer"
+        }
+    },
+    "52": {
+        "question": "How do you feel about the development of adaptive and responsive user interfaces?",
+        "answer": {
+            "I am fond of developing adaptive interfaces": "Frontend Developer",
+            "I use the principles of adaptive design": "Backend Developer",
+            "I work with adaptive interfaces within the limits of necessity": "Mobile Developer",
+            "Adaptive interfaces are not part of my responsibilities": "Game Developer",
+            "I am interested, but do not have much experience in this field": "Fullstack Developer"
+        }
+    },
+    "53": {
+        "question": "How do you prefer to respond to user feedback?",
+        "answer": {
+            "Analyzing feedback and using it to improve the product": "Fullstack Developer",
+            "I respond promptly and implement changes as needed": "Frontend Developer",
+            "I take feedback into account in the development process": "Backend Developer",
+            "I take feedback into account, but I can't always respond immediately": "Mobile Developer",
+            "Using feedback to optimize gameplay and user experience": "Game Developer"
+        }
+    },
+    "54": {
+        "question": "How do you feel about creating documentation for your code or product?",
+        "answer": {
+            "I consider the creation of documentation an important step": "Backend Developer",
+            "Creating detailed documentation for my projects": "Fullstack Developer",
+            "I create the minimum documentation necessary to understand the code": "Frontend Developer",
+            "I pay special attention to documentation for external APIs and interfaces": "Mobile Developer",
+            "I'm working on documentation if necessary, but I don't consider it a priority": "Game Developer"
+        }
+    },
+    "55": {
+        "question": "How do you prefer to implement authentication and authorization in your projects?",
+        "answer": {
+            "I use standard authentication and authorization methods": "Backend Developer",
+            "Developing my own authentication and authorization methods": "Fullstack Developer",
+            "I use ready-made solutions and libraries for authentication and authorization": "Frontend Developer",
+            "Authentication and authorization are not part of my job": "Game Developer",
+            "I prefer to use third-party services for authentication": "Mobile Developer"
+        }
+    },
+    "56": {
+        "question": "How do you feel about working with multithreading and parallel programming?",
+        "answer": {
+            "I am fond of multithreaded programming": "Fullstack Developer",
+            "I use multithreading where necessary": "Backend Developer",
+            "I work with parallel programming as part of my projects": "Frontend Developer",
+            "Multithreading and parallel programming are not my responsibilities": "Mobile Developer",
+            "I see it as an interesting direction, but I don't have much experience in this field": "Game Developer"
+        }
+    },
+    "57": {
+        "question": "How do you feel about participating in open research projects?",
+        "answer": {
+            "I am fond of and actively participate in open source projects": "Fullstack Developer",
+            "I am interested, but rarely participate in such projects": "Frontend Developer",
+            "I prefer to devote time to projects related to my field of work": "Backend Developer",
+            "I'm interested in watching projects from afar, but I don't participate in them": "Mobile Developer",
+            "I'm not interested in participating in open research projects": "Game Developer"
+        }
+    },
+    "58": {
+        "question": "How do you feel about using containerization (for example, Docker) in your work?",
+        "answer": {
+            "I actively use containerization and consider it an effective approach": "Fullstack Developer",
+            "I use containerization when necessary, but not always": "Backend Developer",
+            "I consider containerization as an interesting technology, but I don't have much experience in this area": "Frontend Developer",
+            "Containerization is not used in my work": "Game Developer",
+            "I am interested in containerization, but have not yet found/found an opportunity to apply it": "Mobile Developer"
+        }
+    },
+    "59": {
+        "question": "How do you feel about the development of microservice architectures?",
+        "answer": {
+            "I actively use microservice architectures in my projects": "Backend Developer",
+            "I'm interested in microservice architectures, but I don't have much experience using them": "Fullstack Developer",
+            "I consider microservice architectures as an interesting direction, but have not yet applied/applied them": "Frontend Developer",
+            "Microservice architectures are not used in my work": "Game Developer",
+            "Not very interested/interested in microservice architectures": "Mobile Developer"
+        }
+    },
+    "60": {
+        "question": "How do you feel about using analytics to evaluate the performance and usage of your product?",
+        "answer": {
+            "I consider analytics an important tool and actively use it to improve the product": "Fullstack Developer",
+            "I use analytics to evaluate performance and user experience": "Frontend Developer",
+            "I use analytics as part of my work, but not always actively": "Backend Developer",
+            "Analytics is not part of my job": "Game Developer",
+            "I do not use analytics or treat it with distrust": "Mobile Developer"
+        }
+    },
+    "61": {
+        "question": "How do you feel about working with distributed systems and cloud services?",
+        "answer": {
+            "I'm passionate about working with distributed systems and cloud services": "Fullstack Developer",
+            "I use cloud services in my work when necessary": "Backend Developer",
+            "I consider distributed systems and cloud services as an interesting area, but I don't have much experience": "Frontend Developer",
+            "Working with distributed systems and cloud services is not my responsibility": "Mobile Developer",
+            "Not very interested/interested in working with distributed systems and cloud services": "Game Developer"
+        }
+    },
+    "62": {
+        "question": "How do you feel about using version control systems like Git?",
+        "answer": {
+            "I actively use version control systems in my work": "Fullstack Developer",
+            "I use Git to track code changes and collaborate on projects": "Backend Developer",
+            "I work with version control systems for source code management and project versioning": "Frontend Developer",
+            "I use version control systems when necessary, but not always": "Mobile Developer",
+            "I don't always use version control systems or prefer other tools": "Game Developer"
+        }
+    },
+    "63": {
+        "question": "How do you feel about code refactoring and project optimization?",
+        "answer": {
+            "I consider refactoring and optimization an integral part of development and actively apply them": "Fullstack Developer",
+            "I am refactoring the code to improve its readability and maintainability": "Backend Developer",
+            "Optimizing projects to increase productivity and efficiency": "Frontend Developer",
+            "Code refactoring and project optimization are not my responsibilities": "Mobile Developer",
+            "I don't always refactor code or optimize projects due to time constraints": "Game Developer"
+        }
+    },
+    "64": {
+        "question": "How do you feel about working with technical debts in a project?",
+        "answer": {
+            "I strive to minimize technical debts and actively work to eliminate them": "Fullstack Developer",
+            "I consciously approach technical debts and plan their subsequent elimination": "Backend Developer",
+            "I work with technical debts, giving them sufficient attention as part of my work": "Frontend Developer",
+            "Technical debts are not considered in my tasks": "Mobile Developer",
+            "I don't always pay enough attention to technical debts due to the current needs of the project": "Game Developer"
+        }
+    },
+    "65": {
+        "question": "How do you feel about working with asynchronous programming?",
+        "answer": {
+            "I actively use asynchronous programming in my work": "Backend Developer",
+            "I use asynchronous programming if necessary": "Fullstack Developer",
+            "I consider asynchronous programming as an important tool, but I don't always use it": "Frontend Developer",
+            "Working with asynchronous programming is not my responsibility": "Mobile Developer",
+            "I don't always use asynchronous programming because of the peculiarities of my projects": "Game Developer"
+        }
+    },
+    "66": {
+        "question": "How do you feel about working in conditions of limited time resources?",
+        "answer": {
+            "I manage temporary resources and work effectively in a limited time": "Fullstack Developer",
+            "I carefully plan my work to cope with time constraints": "Backend Developer",
+            "I am ready to work with increased concentration in a limited time": "Frontend Developer",
+            "I work effectively in a limited time frame without losing productivity": "Mobile Developer",
+            "Working with limited time resources presents a challenge": "Game Developer"
+        }
+    },
+    "67": {
+        "question": "How do you feel about participating in architectural discussions and designing the architecture of the application?",
+        "answer": {
+            "I actively participate in architectural discussions and design, contribute to decision-making": "Fullstack Developer",
+            "I have experience of participating in architectural discussions and design, I try to contribute my ideas and comments": "Backend Developer",
+            "I participate in architectural discussions and design, striving to develop effective solutions": "Frontend Developer",
+            "I don't always participate in architectural discussions, but I am ready to participate if necessary": "Mobile Developer",
+            "My contribution to architectural discussions and design is limited, but I am ready to support the process": "Game Developer"
+        }
+    },
+    "68": {
+        "question": "How do you feel about working with bug tracking systems and task management?",
+        "answer": {
+            "I actively use bug tracking systems and task management systems to organize my work": "Fullstack Developer",
+            "I use bug tracking systems and task management systems for work planning": "Backend Developer",
+            "I try to use bug tracking systems and task management systems for effective organization of work": "Frontend Developer",
+            "I use such systems, but I don't always attach great importance to them": "Mobile Developer",
+            "My work with such systems is limited to minimal actions": "Game Developer"
+        }
+    },
+    "69": {
+        "question": "How do you feel about working with the API of other services and third-party libraries?",
+        "answer": {
+            "I actively use the API of other services and third-party libraries, integrating them into my projects": "Fullstack Developer",
+            "I have experience working with APIs of other services and third-party libraries and am ready to quickly master new ones": "Backend Developer",
+            "I can work with APIs of other services and third-party libraries, using them to solve problems": "Frontend Developer",
+            "I don't always use such APIs, but I'm ready to learn new ones if necessary": "Mobile Developer",
+            "My experience with such systems is limited, and I prefer to avoid using them": "Game Developer"
+        }
+    },
+    "70": {
+        "question": "How do you feel about working on improving the performance of your software?",
+        "answer": {
+            "I am actively engaged in optimizing the performance of my software": "Fullstack Developer",
+            "I try to take performance into account in my software and carry out the necessary optimizations whenever possible": "Backend Developer",
+            "I pay attention to the performance of my software, but I don't always have enough time to carry out deep optimizations": "Frontend Developer",
+            "Optimizing software performance is not my priority, but I am ready to improve it if necessary": "Mobile Developer",
+            "I don't attach much importance to software performance": "Game Developer"
+        }
+    },
+    "71": {
+        "question": "How do you react to failures and failures in your work?",
+        "answer": {
+            "I try to learn from failures and use them for personal and professional growth": "Fullstack Developer",
+            "I accept failures as part of the development process and strive to overcome them with new knowledge and experience": "Backend Developer",
+            "I pay attention to analyzing the causes of failures and try to find solutions to prevent them in the future": "Frontend Developer",
+            "It is not always easy to experience failures, but I am ready to benefit from them and move on": "Mobile Developer",
+            "I don't focus on failures and strive for new achievements despite obstacles": "Game Developer"
+        }
+    },
+    "72": {
+        "question": "How do you feel about leadership and leadership roles in a team?",
+        "answer": {
+            "I strive for leadership and am ready to accept leadership roles": "Fullstack Developer",
+            "I show leadership qualities and am ready to take responsibility for making key decisions in the team": "Backend Developer",
+            "I try to take the initiative and influence decision-making in the team": "Frontend Developer",
+            "I don't always feel comfortable in the role of a leader, but I am ready to take responsibility in necessary situations": "Mobile Developer",
+            "I prefer to avoid leadership roles and concentrate on my team work": "Game Developer"
+        }
+    },
+    "73": {
+        "question": "How do you maintain a working atmosphere in the team?",
+        "answer": {
+            "I actively participate in creating a friendly and supportive environment": "Fullstack Developer",
+            "I strive to create a positive and productive working atmosphere": "Backend Developer",
+            "I pay attention to establishing trusting relationships and maintaining a positive climate": "Frontend Developer",
+            "I maintain team spirit and mutual understanding among colleagues": "Mobile Developer",
+            "I prefer to concentrate on my work and avoid active interference in the work atmosphere": "Game Developer"
+        }
+    },
+    "74": {
+        "question": "How do you react to unexpected changes in a project or tasks?",
+        "answer": {
+            "I try to adapt to changes and quickly rebuild my action plan": "Fullstack Developer",
+            "I accept changes as a challenge and try to find solutions that meet new circumstances": "Backend Developer",
+            "I pay attention to the analysis and assessment of changes in order to respond effectively to them and minimize negative consequences": "Frontend Developer",
+            "It's not always easy to adapt to unexpected changes, but I try to stay calm and look for solutions": "Mobile Developer",
+            "I prefer to avoid unexpected changes and strive for stability in working on projects": "Game Developer"
+        }
+    },
+    "75": {
+        "question": "How do you keep motivated and enthusiastic at work?",
+        "answer": {
+            "I strive for constant self-development and interesting projects": "Fullstack Developer",
+            "Looking for inspiration in new technologies and projects": "Backend Developer",
+            "I find satisfaction in the results of my work and participate in interesting projects": "Frontend Developer",
+            "I find inspiration in new challenges and opportunities for development": "Mobile Developer",
+            "I prefer to work on interesting projects": "Game Developer"
+        }
+    },
+    "76": {
+        "question": "How do you feel about solving conflict situations in the team?",
+        "answer": {
+            "I strive to find constructive solutions and resolve conflicts": "Fullstack Developer",
+            "I approach conflict resolution objectively and calmly": "Backend Developer",
+            "I pay attention to conflict resolution and try to build a dialogue": "Frontend Developer",
+            "I am ready to work on conflict resolution": "Mobile Developer",
+            "I prefer to avoid conflicts and strive for harmony": "Game Developer"
+        }
+    },
+    "77": {
+        "question": "How do you feel about feedback from management and colleagues?",
+        "answer": {
+            "I actively welcome feedback and use it to improve": "Fullstack Developer",
+            "I try to take feedback as an opportunity to improve my skills": "Backend Developer",
+            "I pay attention to feedback and strive for continuous improvement": "Frontend Developer",
+            "I try to use feedback for personal growth": "Mobile Developer",
+            "I prefer to trust my own assessments and decisions": "Game Developer"
+        }
+    },
+    "78": {
+        "question": "How do you feel about training and helping colleagues in their professional growth?",
+        "answer": {
+            "I actively participate in training and helping colleagues": "Fullstack Developer",
+            "I support and help colleagues in their professional development": "Backend Developer",
+            "I pay attention to the training and support of colleagues": "Frontend Developer",
+            "I am ready to support colleagues in their professional development": "Mobile Developer",
+            "I focus on my own growth, avoiding active participation in the training of others": "Game Developer"
+        }
+    },
+    "79": {
+        "question": "How do you overcome a creative plug or lack of inspiration?",
+        "answer": {
+            "I'm looking for new sources of inspiration and doing sports": "Fullstack Developer",
+            "I'm changing my activity to come back with new ideas": "Backend Developer",
+            "Looking for inspiration in art, music or literature": "Frontend Developer",
+            "Taking a break and doing other things": "Mobile Developer",
+            "I give myself time and space to think": "Game Developer"
+        }
+    },
+    "80": {
+        "question": "How do you manage stress and pressure at work?",
+        "answer": {
+            "I use relaxation and meditation techniques": "Fullstack Developer",
+            "I try to maintain a balance between work and personal life": "Backend Developer",
+            "I use sports and physical exercises": "Frontend Developer",
+            "I strive for effective planning and organization of work": "Mobile Developer",
+            "I use positive behavioral strategies": "Game Developer"
+        }
+    },
+    "81": {
+        "question": "What hobbies do you bring to your work?",
+        "answer": {
+            "Complement the work, making it diverse and interesting": "Fullstack Developer",
+            "I find a connection between hobbies and work": "Backend Developer",
+            "They influence the creative approach to work": "Frontend Developer",
+            "I use it as a source of motivation and inspiration": "Mobile Developer",
+            "They influence the choice of projects and areas of work": "Game Developer"
+        }
+    },
+    "82": {
+        "question": "How does your hobby affect your creative thinking and problem solving?",
+        "answer": {
+            "Stimulates creative thinking and finding non-standard solutions": "Fullstack Developer",
+            "I use it as a source of inspiration to solve problems": "Backend Developer",
+            "Broadens horizons and influences the ability to innovate": "Frontend Developer",
+            "It helps to see problems from different angles and find unexpected solutions": "Mobile Developer",
+            "They influence work preferences and the choice of methods for solving problems": "Game Developer"
+        }
+    },
+    "83": {
+        "question": "How does your hobby affect your attitude to work?",
+        "answer": {
+            "Inspires and helps to maintain a high level of enthusiasm": "Fullstack Developer",
+            "It is an additional source of motivation": "Backend Developer",
+            "Makes work more exciting and interesting": "Frontend Developer",
+            "It helps to stay inspired and find pleasure in work": "Mobile Developer",
+            "They influence work preferences and development directions": "Game Developer"
+        }
+    },
+    "84": {
+        "question": "What skills do you extract from your hobbies for use in your work?",
+        "answer": {
+            "Improve skills in creativity, problem solving and communication": "Fullstack Developer",
+            "I use skills from my hobbies to improve development efficiency": "Backend Developer",
+            "Broaden horizons and influence the ability to use innovative approaches": "Frontend Developer",
+            "Improve skills in the field of creativity, analysis and adaptation": "Mobile Developer",
+            "Develop skills in the field of design, development and testing of game mechanics": "Game Developer"
+        }
+    },
+    "85": {
+        "question": "How does your passion affect your teamwork?",
+        "answer": {
+            "Helps to find a common language with colleagues": "Fullstack Developer",
+            "I use it as a way of communication and interaction": "Backend Developer",
+            "Makes you more open to the ideas of colleagues": "Frontend Developer",
+            "Encourages collaboration on projects": "Mobile Developer",
+            "Affects effective interaction in game development": "Game Developer"
+        }
+    },
+    "86": {
+        "question": "How does your hobby affect your self-development?",
+        "answer": {
+            "Stimulates the thirst for knowledge and self-development": "Fullstack Developer",
+            "I use it as a source of motivation for learning": "Backend Developer",
+            "Helps in learning new information": "Frontend Developer",
+            "Inspires to explore new technologies": "Mobile Developer",
+            "Stimulates constant self-development in the gaming industry": "Game Developer"
+        }
+    },
+    "87": {
+        "question": "How does your hobby affect your sense of responsibility and decision-making?",
+        "answer": {
+            "Strengthens the sense of responsibility for the results of work": "Fullstack Developer",
+            "Stimulates responsible decision-making": "Backend Developer",
+            "Makes you more purposeful and determined": "Frontend Developer",
+            "Helps to make decisions based on personal values": "Mobile Developer",
+            "Taking responsibility for the quality of projects in the gaming industry": "Game Developer"
+        }
+    },
+    "88": {
+        "question": "What methods do you use to maintain a work-life balance?",
+        "answer": {
+            "Setting boundaries and time frames": "Fullstack Developer",
+            "Planning free time and active recreation": "Backend Developer",
+            "Using relaxation and meditation techniques": "Frontend Developer",
+            "The introduction of technologies to allocate time for family and hobbies": "Mobile Developer",
+            "Developing strategies for dividing work time and personal activities": "Game Developer"
+        }
+    },
+    "89": {
+        "question": "How do you maintain your physical and emotional health while working?",
+        "answer": {
+            "Regular breaks and exercise": "Fullstack Developer",
+            "Doing sports after work": "Backend Developer",
+            "Using relaxation techniques and breathing exercises": "Frontend Developer",
+            "Active lifestyle in your free time": "Mobile Developer",
+            "Healthy habits in everyday life": "Game Developer"
+        }
+    },
+    "90": {
+        "question": "How do you support your professional growth in IT?",
+        "answer": {
+            "I am constantly learning new technologies": "Fullstack Developer",
+            "I participate in professional courses and trainings": "Backend Developer",
+            "I study literature and articles in the field": "Frontend Developer",
+            "Experimenting with new technologies in my own projects": "Mobile Developer",
+            "I communicate with the professional community and share my experience": "Game Developer"
+        }
+    },
+    "91": {
+        "question": "How do you prefer to organize your working day?",
+        "answer": {
+            "I plan and strictly adhere to the schedule": "Fullstack Developer",
+            "I prefer a flexible work schedule": "Backend Developer",
+            "I prefer to work in a calm environment": "Frontend Developer",
+            "I often switch between tasks": "Mobile Developer",
+            "I prefer to work in a team": "Game Developer"
+        }
+    },
+    "92": {
+        "question": "How do you feel about working in a remote format?",
+        "answer": {
+            "I prefer to work in the office": "Fullstack Developer",
+            "I prefer to work remotely": "Backend Developer",
+            "I prefer a mixed format of work": "Frontend Developer",
+            "I prefer to work in the office for effective interaction with colleagues": "Mobile Developer",
+            "I don't care where I work": "Game Developer"
+        }
+    },
+    "93": {
+        "question": "How do you feel about working on multiple projects at the same time?",
+        "answer": {
+            "Managing time and resources to work on multiple projects": "Fullstack Developer",
+            "I prefer to focus on one project": "Backend Developer",
+            "I am ready to work on several projects with clear priorities": "Frontend Developer",
+            "I often switch between projects": "Mobile Developer",
+            "I prefer to have one main project": "Game Developer"
+        }
+    },
+    "94": {
+        "question": "How do you make decisions about choosing algorithms and data structures to solve problems?",
+        "answer": {
+            "I analyze the requirements of the task and select the appropriate ones": "Fullstack Developer",
+            "Based on the size and workload of the task": "Backend Developer",
+            "I prefer proven algorithms and data structures": "Frontend Developer",
+            "I focus on productivity when working on mobile devices": "Mobile Developer",
+            "The choice depends on the requirements of game mechanics and performance": "Game Developer"
+        }
+    },
+    "95": {
+        "question": "How do you organize the structure of the project and its architecture?",
+        "answer": {
+            "Modular structure for scaling and project maintenance": "Fullstack Developer",
+            "A clear structure for effective interaction of components": "Backend Developer",
+            "Flexible structure depending on the tasks and requirements of the project": "Frontend Developer",
+            "Modular structure for ease of maintenance": "Mobile Developer",
+            "Optimized structure for high performance and flexibility": "Game Developer"
+        }
+    },
+    "96": {
+        "question": "How do you rate the purity of the code and its maintainability?",
+        "answer": {
+            "Plays a crucial role in improving the understanding and modifiability of the application": "Fullstack Developer",
+            "Important for the long-term sustainability and extensibility of the project": "Backend Developer",
+            "Striving to write clean code to facilitate teamwork": "Frontend Developer",
+            "They help to reduce the time for finding and correcting errors": "Mobile Developer",
+            "It is important for the effective development and support of game projects": "Game Developer"
+        }
+    },
+    "97": {
+        "question": "What factors are important when choosing a hosting provider to host applications?",
+        "answer": {
+            "Reliability, speed, quality of support and price-quality ratio": "Fullstack Developer",
+            "Convenient tools, high level of security and guaranteed availability": "Backend Developer",
+            "Flexible configuration, quick access and support for modern technologies": "Frontend Developer",
+            "Opportunities for fast content delivery and scalability": "Mobile Developer",
+            "Performance, optimization for gaming applications and support for specialized tools": "Game Developer"
+        }
+    },
+    "98": {
+        "question": "What criteria are important when choosing a server to deploy applications?",
+        "answer": {
+            "High performance, reliability and scalability": "Fullstack Developer",
+            "Characteristics for stable operation of server applications and databases": "Backend Developer",
+            "Compatibility with hosting web servers and frontend applications": "Frontend Developer",
+            "Fast response for comfortable work on various devices": "Mobile Developer",
+            "Computing capabilities and compatibility with game engines": "Game Developer"
+        }
+    },
+    "99": {
+        "question": "What criteria do you usually consider when choosing a computer for development?",
+        "answer": {
+            "Processor and graphics card performance": "Fullstack Developer",
+            "The amount of RAM and the speed of the drives": "Backend Developer",
+            "Ergonomics and ease of use": "Frontend Developer",
+            "Mobility and offline work time": "Mobile Developer",
+            "Specialized characteristics for working with graphics and animation": "Game Developer"
+        }
+    },
+    "100": {
+        "question": "Which digital analogue of your character would you prefer?",
+        "answer": {
+            "Fast and multifunctional gadget": "Fullstack Developer",
+            "Bright and creative multimedia content": "Frontend Developer",
+            "Reliable and efficient software": "Backend Developer",
+            "Mobile application with a user-friendly interface": "Mobile Developer",
+            "An exciting and fascinating video game": "Game Developer"
+        }
+    },
+    "101": {
+        "question": "If your software could have its own character, what would it be?",
+        "answer": {
+            "He would be like a reliable senior Developer, always ready to help and support others": "Fullstack Developer",
+            "He would be like a creative designer, constantly looking for new ideas and non-standard solutions": "Frontend Developer",
+            "He would be like an experienced engineer striving for logic and precision in every action": "Backend Developer",
+            "He would be like an adventurer, always ready to explore new technologies and techniques": "Mobile Developer",
+            "He would be like a master of game mechanics, creating unique and fascinating virtual worlds": "Game Developer"
+        }
+    }
+}
